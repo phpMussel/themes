@@ -1,10 +1,10 @@
 body {
     font-family: 'Lucida Grande',Tahoma,Verdana,Arial,MingLiU;
     font-size: 10px;
-	margin: 0px;
-	letter-spacing: 1px;
+    margin: 0px;
+    letter-spacing: 1px;
     background: #cccccc;
-	font-weight: bold
+    font-weight: bold
 }
 #denied_other,
 #denied_reason {
@@ -45,7 +45,7 @@ hr.hline {
 }
 #results {
     margin: 18px 0px 10px 0px;
-	text-align: center
+    text-align: center
 }
 #denied_reason {
     padding-top: 12px
@@ -55,9 +55,12 @@ hr.hline {
     padding: 0px 6px 6px 0px;
     font-size: 10.666px;
     white-space: nowrap;
-	text-align: right
+    text-align: right
 }
 #footer_inner {
     display: inline-block;
     letter-spacing: -4px
+}
+#generated_by {
+    color: #000000
 }
