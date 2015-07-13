@@ -1,0 +1,27 @@
+/* 
+ * theme name: blue
+ * revision: 1 (13.07.2015)
+ * creator: Daniel Ruf
+ */
+body {
+    background: #333333
+}
+#results,
+#phpmusselversion {
+    color: #FBB829
+}
+
+#detected {
+    color: #2B2B2B
+}
+#wrapper {
+    border-color: #2B2B2B;
+    background: #556270
+}
+
+hr.hline {
+    background: #7F94B0
+}
+#generated_by {
+    color: #2B2B2B
+}
