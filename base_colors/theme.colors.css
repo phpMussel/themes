@@ -1,0 +1,22 @@
+body {
+    background: #cccccc
+}
+#results,
+#phpmusselversion {
+    color: #ff0000
+}
+
+#detected {
+    color: #003333
+}
+#wrapper {
+    border-color: #c7ced3;
+    background: #ffffff
+}
+
+hr.hline {
+    background: #990000
+}
+#generated_by {
+    color: #000000
+}
