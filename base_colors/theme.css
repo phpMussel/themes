@@ -3,7 +3,7 @@ html,body {
     width: 100%
 }
 body {
-    font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', Geneva, Verdana, sans-serif;
+    font-family: Verdana,Geneva,sans-serif;
     font-size: 10px;
     margin: 0px;
     letter-spacing: 1px;
