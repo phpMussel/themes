@@ -1,4 +1,5 @@
 body {
+    font-family: Verdana,Geneva,sans-serif;
     background: #2e2e2e
 }
 #results,
@@ -7,7 +8,7 @@ body {
     color: #f02311
 }
 #results {
-    font-size: 16px;
+    font-size: 14px;
 }
 #detected {
     text-shadow: 0 -1px 0px #666666, 0 1px 0px #ffffff;
