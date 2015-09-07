@@ -1,0 +1,31 @@
+body {
+    background: #2e2e2e
+}
+#results,
+#phpmusselversion {
+    text-shadow: 0 -1px 0px #666666, 0 1px 0px #ffffff;
+    color: #f02311
+}
+#results {
+    font-size: 16px;
+}
+#detected {
+    text-shadow: 0 -1px 0px #666666, 0 1px 0px #ffffff;
+    font-size: 14px;
+    color: #2e2e2e
+}
+#wrapper {
+    border-color: #000000;
+    background: #dbdbdb
+}
+hr.hline {
+    box-shadow: 0 -1px 0px #666666, 0 1px 0px #ffffff;
+    background: #000000
+}
+#generated_by {
+    text-shadow: 0 -1px 0px #666666, 0 1px 0px #ffffff;
+    color: #2e2e2e
+}
+#footer_inner {
+    font-size: 12px;
+}
