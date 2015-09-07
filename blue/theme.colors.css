@@ -1,9 +1,10 @@
 /* 
  * theme name: blue
- * revision: 1 (13.07.2015)
+ * revision: 2 (07.09.2015)
  * creator: Daniel Ruf
  */
 body {
+    font-family: Verdana,Geneva,sans-serif;
     background: #333333
 }
 #results,
