@@ -5,32 +5,32 @@
  */
 body {
     font-family: Verdana,Geneva,sans-serif;
-    background: #2e2e2e
+    background: #2E2E2E
 }
 #results,
 #phpmusselversion {
-    text-shadow: 0 -1px 0px #666666, 0 1px 0px #ffffff;
-    color: #f02311
+    text-shadow: 0 -1px 0px #666666, 0 1px 0px #FFFFFF;
+    color: #F02311
 }
 #results {
     font-size: 14px
 }
 #detected {
-    text-shadow: 0 -1px 0px #666666, 0 1px 0px #ffffff;
+    text-shadow: 0 -1px 0px #666666, 0 1px 0px #FFFFFF;
     font-size: 14px;
-    color: #2e2e2e
+    color: #2E2E2E
 }
 #wrapper {
     border-color: #000000;
-    background: #dbdbdb
+    background: #DBDBDB
 }
 hr.hline {
-    box-shadow: 0 -1px 0px #666666, 0 1px 0px #ffffff;
+    box-shadow: 0 -1px 0px #666666, 0 1px 0px #FFFFFF;
     background: #000000
 }
 #generated_by {
-    text-shadow: 0 -1px 0px #666666, 0 1px 0px #ffffff;
-    color: #2e2e2e
+    text-shadow: 0 -1px 0px #666666, 0 1px 0px #FFFFFF;
+    color: #2E2E2E
 }
 #footer_inner {
     font-size: 12px
