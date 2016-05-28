@@ -4,10 +4,10 @@ An ideal solution for shared hosting environments, where it's often not possible
 
 ## **What's this repository for?**
 
-This repository, "phpMussel-themes", is a repository for any themes for phpMussel that don't belong to the main repository.
+This repository, "themes", is a repository for phpMussel themes.
 
-The main repository: [phpMussel](https://github.com/Maikuolan/phpMussel).
+The core phpMussel repository: [phpMussel](https://github.com/Maikuolan/phpMussel).
 
-This repository: [phpMussel-themes](https://github.com/phpMussel/phpMussel-themes).
+This repository: [themes](https://github.com/phpMussel/themes).
 
-*This file, "README.md", last edited: 27th May 2016 (2016.05.27).*
+*This file, "README.md", last edited: 29th May 2016 (2016.05.29).*
