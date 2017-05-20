@@ -1,8 +1,8 @@
 ---
 theme/rbi:
- Name: Theme: Red-Blue Inverted (Maikuolan)
- Extended Description: Same as the default theme, but with some of the colours swapped around.
- Version: 2017.138.593
+ Name: Theme: Red-Blue Inverted
+ Extended Description: Exactly the same as the default theme, but with some of the colours swapped around. No big changes.<br /><em>Author: Caleb M / Maikuolan</em>
+ Version: 2017.139.068
  Minimum Required: 1.0.0-DEV
  Remote: https://raw.githubusercontent.com/phpMussel/themes/master/FE/themes.dat
  Uninstallable: true
@@ -14,7 +14,31 @@ theme/rbi:
    - template_rbi.html
    - fe_assets/rbi/frontend.css
   Checksum:
-   - a323ed8974be90358ef41625fd66a1e2:2064
-   - c7d68d983c4f4c34de574864bebfc8f2:5184
+   - 2e5db870474f6b14d386640cadd4d696:2053
+   - 76ff5b12c7ce223535f328c1330c3ad8:5173
+ Reannotate: themes.dat
+theme/slate:
+ Name: Theme: Slate
+ Extended Description: Simple layout; Gentle, darker colours (Work-In-Progress).<br /><em>Author: Caleb M / Maikuolan</em>
+ Version: 2017.139.068
+ Minimum Required: 1.0.0-DEV
+ Remote: https://raw.githubusercontent.com/phpMussel/themes/master/FE/themes.dat
+ Uninstallable: true
+ Files:
+  From:
+   - https://raw.githubusercontent.com/phpMussel/themes/master/FE/template_slate.html
+   - https://raw.githubusercontent.com/phpMussel/themes/master/FE/slate/_login.html
+   - https://raw.githubusercontent.com/phpMussel/themes/master/FE/slate/frontend.css
+   - https://raw.githubusercontent.com/phpMussel/themes/master/FE/slate/frontend.html
+  To:
+   - template_slate.html
+   - fe_assets/slate/_login.html
+   - fe_assets/slate/frontend.css
+   - fe_assets/slate/frontend.html
+  Checksum:
+   - 62473159700d377658827a71ad2edeb3:2083
+   - 986802f3969631fb0f207f9799115864:455
+   - 5c9c29a78cb59d6014af60167623dd20:5184
+   - 65811af53ea9a90436262183532df955:995
  Reannotate: themes.dat
 
