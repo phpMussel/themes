@@ -2,7 +2,7 @@
 theme/rbi:
  Name: Theme: Red-Blue Inverted
  Extended Description: Exactly the same as the default theme, but with some of the colours swapped around. No big changes.<br /><em>Author: Caleb M / Maikuolan</em>
- Version: 2017.139.586
+ Version: 2017.140.801
  Minimum Required: 1.0.0-DEV
  Remote: https://raw.githubusercontent.com/phpMussel/themes/master/FE/themes.dat
  Uninstallable: true
@@ -14,13 +14,13 @@ theme/rbi:
    - template_rbi.html
    - fe_assets/rbi/frontend.css
   Checksum:
-   - 2e5db870474f6b14d386640cadd4d696:2053
-   - aa9e76c8c3c2cc5199563521dacb8cac:5172
+   - 5549a39def159883887c7c9473d58f2f:2051
+   - 1f83c7404eb846fb721d38940802a63a:5162
  Reannotate: themes.dat
 theme/slate:
  Name: Theme: Slate
  Extended Description: Simple layout; Gentle, darker colours.<br /><em>Author: Caleb M / Maikuolan</em>
- Version: 2017.139.586
+ Version: 2017.140.801
  Minimum Required: 1.0.0-DEV
  Remote: https://raw.githubusercontent.com/phpMussel/themes/master/FE/themes.dat
  Uninstallable: true
@@ -38,9 +38,9 @@ theme/slate:
    - fe_assets/slate/frontend.html
    - fe_assets/slate/pips.php
   Checksum:
-   - 62473159700d377658827a71ad2edeb3:2083
+   - 6dce87653091344ef1c790b0ec082a20:2073
    - 986802f3969631fb0f207f9799115864:455
-   - 4299ce43e86e3a8336d2f07bcebd17ed:5241
+   - 658cf4430e0eb051cfa2387ae52fba61:5230
    - 65811af53ea9a90436262183532df955:995
    - 2dd363a9646752dcd48db7e33a42fcfe:980
  Reannotate: themes.dat
