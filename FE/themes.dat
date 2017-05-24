@@ -20,7 +20,7 @@ theme/rbi:
 theme/slate:
  Name: Theme: Slate
  Extended Description: Simple layout; Gentle, darker colours.<br /><em>Author: Caleb M (Maikuolan)</em>
- Version: 2017.143.302
+ Version: 2017.143.625
  Minimum Required: 1.0.0-DEV
  Remote: https://raw.githubusercontent.com/phpMussel/themes/master/FE/themes.dat
  Uninstallable: true
@@ -41,13 +41,13 @@ theme/slate:
    - 412a73ec4b35b03fc45caf89943b0d75:1985
    - 986802f3969631fb0f207f9799115864:455
    - dc0c161891073fe5677cd973790c0c9a:3197
-   - 65811af53ea9a90436262183532df955:995
+   - 05cb17124be77ceb7015c417d4fa3cb0:1009
    - 2dd363a9646752dcd48db7e33a42fcfe:980
  Reannotate: themes.dat
 theme/bluemetal:
  Name: Theme: Blue Metal
  Extended Description: Simple blue/black colour scheme with gentle tones.<br /><em>Author: Caleb M (Maikuolan), based on previous work by Daniel R.</em>
- Version: 2017.143.302
+ Version: 2017.143.625
  Minimum Required: 1.0.0-DEV
  Remote: https://raw.githubusercontent.com/phpMussel/themes/master/FE/themes.dat
  Uninstallable: true
@@ -68,13 +68,13 @@ theme/bluemetal:
    - 41517237850cee684dad8ca458d919ac:2099
    - 986802f3969631fb0f207f9799115864:455
    - c67a222066b90483bd07478d8f2a1f5e:3321
-   - 65811af53ea9a90436262183532df955:995
+   - 05cb17124be77ceb7015c417d4fa3cb0:1009
    - 63d7b911eb8909791ea5cd32817c5f36:947
  Reannotate: themes.dat
 theme/moss:
  Name: Theme: Moss
  Extended Description: Inspired by the colours of nature.<br /><em>Author: Caleb M (Maikuolan)</em>
- Version: 2017.143.302
+ Version: 2017.143.625
  Minimum Required: 1.0.0-DEV
  Remote: https://raw.githubusercontent.com/phpMussel/themes/master/FE/themes.dat
  Uninstallable: true
@@ -92,10 +92,10 @@ theme/moss:
    - fe_assets/moss/frontend.css
    - fe_assets/moss/frontend.html
   Checksum:
-   - 0e4788be9ff677aa03b343d9261b6fd9:1995
+   - 48c97378b3a015de7e54e901fc9107ea:2009
    - 986802f3969631fb0f207f9799115864:455
    - 5182ba869b16c040409cf39980173d9c:17804
-   - 92e8937296bf43b3d7293308d78039a2:3375
-   - 65811af53ea9a90436262183532df955:995
+   - a420cffec1600d2d36aa5c1dde532799:3403
+   - 05cb17124be77ceb7015c417d4fa3cb0:1009
  Reannotate: themes.dat
 
