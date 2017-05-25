@@ -47,7 +47,7 @@ theme/slate:
 theme/bluemetal:
  Name: Theme: Blue Metal
  Extended Description: Simple blue/black colour scheme with gentle tones.<br /><em>Author: Caleb M (Maikuolan), based on previous work by Daniel R.</em>
- Version: 2017.143.625
+ Version: 2017.144.811
  Minimum Required: 1.0.0-DEV
  Remote: https://raw.githubusercontent.com/phpMussel/themes/master/FE/themes.dat
  Uninstallable: true
@@ -67,14 +67,14 @@ theme/bluemetal:
   Checksum:
    - 41517237850cee684dad8ca458d919ac:2099
    - 986802f3969631fb0f207f9799115864:455
-   - c67a222066b90483bd07478d8f2a1f5e:3321
+   - a823ebb93ef643a5d4b5bf681f238269:3436
    - 05cb17124be77ceb7015c417d4fa3cb0:1009
    - 63d7b911eb8909791ea5cd32817c5f36:947
  Reannotate: themes.dat
 theme/moss:
  Name: Theme: Moss
  Extended Description: Inspired by the colours of nature.<br /><em>Author: Caleb M (Maikuolan)</em>
- Version: 2017.143.625
+ Version: 2017.144.811
  Minimum Required: 1.0.0-DEV
  Remote: https://raw.githubusercontent.com/phpMussel/themes/master/FE/themes.dat
  Uninstallable: true
@@ -95,7 +95,7 @@ theme/moss:
    - 48c97378b3a015de7e54e901fc9107ea:2009
    - 986802f3969631fb0f207f9799115864:455
    - 5182ba869b16c040409cf39980173d9c:17804
-   - a420cffec1600d2d36aa5c1dde532799:3403
+   - 5363fb203af269d058ceccf75b88ae56:3481
    - 05cb17124be77ceb7015c417d4fa3cb0:1009
  Reannotate: themes.dat
 
