@@ -1,11 +1,11 @@
 *{vertical-align:text-top}
-body,input,select,textarea,.idx{font-size:12px}
-body{font-family:'Merriweather','PT Serif',sans-serif,'Lucida Grande',Tahoma,Verdana,Arial;letter-spacing:1px;text-decoration:none;border-style:none;margin:0;padding:0;white-space:normal;background-color:#789048;background-image:url('?phpmussel-asset=bg.png&theme={theme}');background-repeat:no-repeat;background-attachment:fixed;background-position:left bottom;color:#303c24}
+body,input,select,textarea,.idx{font-size:12px;background-repeat:no-repeat}
+body{font-family:'Merriweather','PT Serif',sans-serif,'Lucida Grande',Tahoma,Verdana,Arial;letter-spacing:1px;text-decoration:none;border-style:none;margin:0;padding:0;white-space:normal;background-color:#789048;background-image:url('?phpmussel-asset=bg.png&theme={theme}');background-attachment:fixed;background-position:left bottom;color:#303c24}
 code{font-family:monospace}
 hr{border-style:solid none none;border-width:1px;margin:5px 2px 0;padding:2px;color:#604848}
 img.ico{width:16px;height:16px;border:0;filter:hue-rotate(45deg) brightness(0.9)}
 input,select,textarea{background-color:#d0ff70;border:1px solid #604848;color:#303c24;margin:2px;padding:2px}
-input,select{width:150px;background-position:top {FE_Align_Reverse};background-repeat:no-repeat}
+input,select{width:150px;background-position:top {FE_Align_Reverse}}
 input.auto,select.auto{width:auto;padding-left:10px;padding-right:10px}
 input[type=image]{width:inherit;border:inherit}
 input[type=password]{background-image:url(data:image/gif;base64,{PIP_Key})}

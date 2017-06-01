@@ -20,7 +20,7 @@ theme/rbi:
 theme/slate:
  Name: Theme: Slate
  Extended Description: Simple layout; Gentle, darker colours.<br /><em>Author: Caleb M (Maikuolan)</em>
- Version: 2017.143.625
+ Version: 2017.151.363
  Minimum Required: 1.0.0-DEV
  Remote: https://raw.githubusercontent.com/phpMussel/themes/master/FE/themes.dat
  Uninstallable: true
@@ -39,15 +39,15 @@ theme/slate:
    - fe_assets/slate/pips.php
   Checksum:
    - 412a73ec4b35b03fc45caf89943b0d75:1985
-   - 986802f3969631fb0f207f9799115864:455
-   - dc0c161891073fe5677cd973790c0c9a:3197
+   - 38ff827d308dfdf571299c47ebcf0887:443
+   - e5f50b776b7baada8d5d0458be31d9f3:3197
    - 05cb17124be77ceb7015c417d4fa3cb0:1009
    - 2dd363a9646752dcd48db7e33a42fcfe:980
  Reannotate: themes.dat
 theme/bluemetal:
  Name: Theme: Blue Metal
  Extended Description: Simple blue/black colour scheme with gentle tones.<br /><em>Author: Caleb M (Maikuolan), based on previous work by Daniel R.</em>
- Version: 2017.144.811
+ Version: 2017.151.363
  Minimum Required: 1.0.0-DEV
  Remote: https://raw.githubusercontent.com/phpMussel/themes/master/FE/themes.dat
  Uninstallable: true
@@ -66,15 +66,15 @@ theme/bluemetal:
    - fe_assets/bluemetal/pips.php
   Checksum:
    - 41517237850cee684dad8ca458d919ac:2099
-   - 986802f3969631fb0f207f9799115864:455
-   - a823ebb93ef643a5d4b5bf681f238269:3436
+   - 38ff827d308dfdf571299c47ebcf0887:443
+   - 8080aae48ec632fafb835a9dcaa12d5f:3436
    - 05cb17124be77ceb7015c417d4fa3cb0:1009
-   - 63d7b911eb8909791ea5cd32817c5f36:947
+   - 61318ad20ae13152fb5a163a50903584:953
  Reannotate: themes.dat
 theme/moss:
  Name: Theme: Moss
  Extended Description: Inspired by the colours of nature.<br /><em>Author: Caleb M (Maikuolan)</em>
- Version: 2017.144.811
+ Version: 2017.151.363
  Minimum Required: 1.0.0-DEV
  Remote: https://raw.githubusercontent.com/phpMussel/themes/master/FE/themes.dat
  Uninstallable: true
@@ -93,9 +93,69 @@ theme/moss:
    - fe_assets/moss/frontend.html
   Checksum:
    - 48c97378b3a015de7e54e901fc9107ea:2009
-   - 986802f3969631fb0f207f9799115864:455
+   - 38ff827d308dfdf571299c47ebcf0887:443
    - 5182ba869b16c040409cf39980173d9c:17804
-   - 5363fb203af269d058ceccf75b88ae56:3481
+   - 98fb2f8666775ca5e01648f03056c266:3453
    - 05cb17124be77ceb7015c417d4fa3cb0:1009
+ Reannotate: themes.dat
+theme/fullmoon:
+ Name: Theme: Full Moon
+ Extended Description: Darker, semi-transparent colours; Navigation shifted to the top; No special fonts; Full moon backdrop.<br /><em>Author: Caleb M (Maikuolan)</em>
+ Version: 2017.151.363
+ Minimum Required: 1.0.0-DEV
+ Remote: https://raw.githubusercontent.com/phpMussel/themes/master/FE/themes.dat
+ Uninstallable: true
+ Files:
+  From:
+   - https://raw.githubusercontent.com/phpMussel/themes/master/FE/fullmoon/_accounts.html
+   - https://raw.githubusercontent.com/phpMussel/themes/master/FE/fullmoon/_config.html
+   - https://raw.githubusercontent.com/phpMussel/themes/master/FE/fullmoon/_files.html
+   - https://raw.githubusercontent.com/phpMussel/themes/master/FE/fullmoon/_files_edit.html
+   - https://raw.githubusercontent.com/phpMussel/themes/master/FE/fullmoon/_files_rename.html
+   - https://raw.githubusercontent.com/phpMussel/themes/master/FE/fullmoon/_home.html
+   - https://raw.githubusercontent.com/phpMussel/themes/master/FE/fullmoon/_login.html
+   - https://raw.githubusercontent.com/phpMussel/themes/master/FE/fullmoon/_logs.html
+   - https://raw.githubusercontent.com/phpMussel/themes/master/FE/fullmoon/_nav_complete_access.html
+   - https://raw.githubusercontent.com/phpMussel/themes/master/FE/fullmoon/_nav_logs_access_only.html
+   - https://raw.githubusercontent.com/phpMussel/themes/master/FE/fullmoon/_updates.html
+   - https://raw.githubusercontent.com/phpMussel/themes/master/FE/fullmoon/_upload_test.html
+   - https://raw.githubusercontent.com/phpMussel/themes/master/FE/fullmoon/frontend.css
+   - https://raw.githubusercontent.com/phpMussel/themes/master/FE/fullmoon/frontend.html
+   - https://raw.githubusercontent.com/phpMussel/themes/master/FE/fullmoon/moon.jpg
+   - https://raw.githubusercontent.com/phpMussel/themes/master/FE/fullmoon/pips.php
+  To:
+   - fe_assets/fullmoon/_accounts.html
+   - fe_assets/fullmoon/_config.html
+   - fe_assets/fullmoon/_files.html
+   - fe_assets/fullmoon/_files_edit.html
+   - fe_assets/fullmoon/_files_rename.html
+   - fe_assets/fullmoon/_home.html
+   - fe_assets/fullmoon/_login.html
+   - fe_assets/fullmoon/_logs.html
+   - fe_assets/fullmoon/_nav_complete_access.html
+   - fe_assets/fullmoon/_nav_logs_access_only.html
+   - fe_assets/fullmoon/_updates.html
+   - fe_assets/fullmoon/_upload_test.html
+   - fe_assets/fullmoon/frontend.css
+   - fe_assets/fullmoon/frontend.html
+   - fe_assets/fullmoon/moon.jpg
+   - fe_assets/fullmoon/pips.php
+  Checksum:
+   - 4c302c730062668e2c7943741bafca7b:1753
+   - 1eb46a2309208f83370a39a373fb4e5b:851
+   - 778d877502ddecc27d4db922b2a0cd95:680
+   - a0ae5114b41369e8f6fe1f0939d4c510:626
+   - a21b0324a37be5a4b90e332fd97fe2c1:542
+   - e700aee0a32d3a74e9a74acf35452ea4:367
+   - 38ff827d308dfdf571299c47ebcf0887:443
+   - bbba9d87ed5ce2f792236372578e9327:68
+   - 17c0c4f280e57d31df7614e037f33202:549
+   - 63861144e756817375ceea0cc9a49575:256
+   - ea8de492aa271eca08d4cc63d6571d29:761
+   - cabe813fe34b30193bd8a4e713abb356:824
+   - bb6baeb5c8e671fa386322e73694b7b0:3202
+   - 67f1a7261faf6026bcd635a964339d37:783
+   - 322a7aca4a6209ebeec668571d26ed98:34088
+   - 4dc1b6edac19f7e26772716d0707b773:984
  Reannotate: themes.dat
 

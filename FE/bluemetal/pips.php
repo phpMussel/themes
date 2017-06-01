@@ -11,7 +11,7 @@
  * License: GNU/GPLv2
  * @see LICENSE.txt
  *
- * This file: Blue theme pips handler (last modified: 2017.05.20).
+ * This file: Blue metal theme pips handler (last modified: 2017.06.01).
  */
 
 /** Prevents execution from outside of phpMussel. */
