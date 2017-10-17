@@ -101,7 +101,7 @@ theme/moss:
 theme/fullmoon:
  Name: Theme: Full Moon
  Extended Description: Darker, semi-transparent colours; Navigation shifted to the top; No special fonts; Full moon backdrop.<br /><em>Author: Caleb M (Maikuolan)</em>
- Version: 2017.269.519
+ Version: 2017.288.650
  Minimum Required: 1.0.0-DEV
  Remote: https://raw.githubusercontent.com/phpMussel/themes/master/FE/themes.dat
  Uninstallable: true
@@ -117,6 +117,9 @@ theme/fullmoon:
    - https://raw.githubusercontent.com/phpMussel/themes/master/FE/fullmoon/_logs.html
    - https://raw.githubusercontent.com/phpMussel/themes/master/FE/fullmoon/_nav_complete_access.html
    - https://raw.githubusercontent.com/phpMussel/themes/master/FE/fullmoon/_nav_logs_access_only.html
+   - https://raw.githubusercontent.com/phpMussel/themes/master/FE/fullmoon/_quarantine.html
+   - https://raw.githubusercontent.com/phpMussel/themes/master/FE/fullmoon/_quarantine_row.html
+   - https://raw.githubusercontent.com/phpMussel/themes/master/FE/fullmoon/_statistics.html
    - https://raw.githubusercontent.com/phpMussel/themes/master/FE/fullmoon/_updates.html
    - https://raw.githubusercontent.com/phpMussel/themes/master/FE/fullmoon/_upload_test.html
    - https://raw.githubusercontent.com/phpMussel/themes/master/FE/fullmoon/frontend.css
@@ -134,6 +137,9 @@ theme/fullmoon:
    - fe_assets/fullmoon/_logs.html
    - fe_assets/fullmoon/_nav_complete_access.html
    - fe_assets/fullmoon/_nav_logs_access_only.html
+   - fe_assets/fullmoon/_quarantine.html
+   - fe_assets/fullmoon/_quarantine_row.html
+   - fe_assets/fullmoon/_statistics.html
    - fe_assets/fullmoon/_updates.html
    - fe_assets/fullmoon/_upload_test.html
    - fe_assets/fullmoon/frontend.css
@@ -143,14 +149,17 @@ theme/fullmoon:
   Checksum:
    - 4c302c730062668e2c7943741bafca7b:1753
    - 4843b1d5ca27e1960c578331f187befb:641
-   - a8ba3a1f6d58f9fd9594d50da61fb536:946
+   - 45911a5b076dafbd60141ee5ae8b0936:946
    - 75244828b0188cc6077bbdbb162e070d:615
    - f0e80941a3a5470b8994f9f96b8fdd7a:531
    - d6cd902b9bd8ff54683fa03ee9d2e201:849
    - 38ff827d308dfdf571299c47ebcf0887:443
-   - bbba9d87ed5ce2f792236372578e9327:68
-   - 3bd94a71cf0135268a1675cc5fcf0bb9:530
+   - 4e128ebf827ec9790bb9634cb71fbefa:119
+   - 38d07b0412d552d3f008bc6e8157d2fe:652
    - 650a6c48172474927dd92c0d16217ddf:237
+   - 0260c877803764772a89de728a7e309e:799
+   - a77a112c517b6aa578c17f10c0b6ea21:1056
+   - a58821710c19703f74842637907a5b89:2223
    - 4576e7a6f9ee5cda56826e62b5c9a529:747
    - cabe813fe34b30193bd8a4e713abb356:824
    - a382a58a8bf89a74b43a66223dea777b:3308
