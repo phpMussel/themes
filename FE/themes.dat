@@ -20,7 +20,7 @@ theme/rbi:
 theme/slate:
  Name: Theme: Slate
  Extended Description: Simple layout; Gentle, darker colours.<br /><em>Author: Caleb M (Maikuolan)</em>
- Version: 2017.301.068
+ Version: 2018.45.232
  Minimum Required: 1.0.0-DEV
  Remote: https://raw.githubusercontent.com/phpMussel/themes/master/FE/themes.dat
  Uninstallable: true
@@ -41,13 +41,13 @@ theme/slate:
    - 2ab735f5fab783eb515dff7fbbd6e0a6:2057
    - 73685f5f0e8a36dacbfcd8ecbc45daac:523
    - 7dda82de4be2323f16275d3c6894f039:3327
-   - 97df3796201622240708539e7b00153d:1074
+   - 7f583faedce11aa6fd8abf88c86e45ad:1033
    - 89c0342c4af579457883936bc1cc2e50:927
  Reannotate: themes.dat
 theme/bluemetal:
  Name: Theme: Blue Metal
  Extended Description: Simple blue/black colour scheme with gentle tones.<br /><em>Author: Caleb M (Maikuolan), based on previous work by Daniel R.</em>
- Version: 2017.301.068
+ Version: 2018.45.232
  Minimum Required: 1.0.0-DEV
  Remote: https://raw.githubusercontent.com/phpMussel/themes/master/FE/themes.dat
  Uninstallable: true
@@ -68,13 +68,13 @@ theme/bluemetal:
    - 8ddccead9f64ca505f90cc6422a45090:2171
    - 73685f5f0e8a36dacbfcd8ecbc45daac:523
    - c479d8f506837c7f24a2d89345735b7a:3566
-   - 97df3796201622240708539e7b00153d:1074
+   - 7f583faedce11aa6fd8abf88c86e45ad:1033
    - 562f111a9da85c5f88ae8c51fc569f1b:900
  Reannotate: themes.dat
 theme/moss:
  Name: Theme: Moss
  Extended Description: Inspired by the colours of nature.<br /><em>Author: Caleb M (Maikuolan)</em>
- Version: 2017.301.068
+ Version: 2018.45.232
  Minimum Required: 1.0.0-DEV
  Remote: https://raw.githubusercontent.com/phpMussel/themes/master/FE/themes.dat
  Uninstallable: true
@@ -96,12 +96,12 @@ theme/moss:
    - 73685f5f0e8a36dacbfcd8ecbc45daac:523
    - 5182ba869b16c040409cf39980173d9c:17804
    - 3e1a1a9f04a12b312f1348d9e3d62189:3586
-   - 97df3796201622240708539e7b00153d:1074
+   - 7f583faedce11aa6fd8abf88c86e45ad:1033
  Reannotate: themes.dat
 theme/fullmoon:
  Name: Theme: Full Moon
  Extended Description: Darker, semi-transparent colours; Navigation shifted to the top; No special fonts; Full moon backdrop.<br /><em>Author: Caleb M (Maikuolan)</em>
- Version: 2018.16.673
+ Version: 2018.45.232
  Minimum Required: 1.0.0-DEV
  Remote: https://raw.githubusercontent.com/phpMussel/themes/master/FE/themes.dat
  Uninstallable: true
@@ -147,8 +147,8 @@ theme/fullmoon:
    - fe_assets/fullmoon/moon.jpg
    - fe_assets/fullmoon/pips.php
   Checksum:
-   - 5c25e2485aa2465bd3ece23145e99a38:1823
-   - 0f6eb95913f339c61fa5c6b336e1a0a8:699
+   - 598fa3918686d9b0ed4fba4082d276d0:1837
+   - 0516c895b3e5e92420c3768aea8ce487:642
    - 45911a5b076dafbd60141ee5ae8b0936:946
    - 75244828b0188cc6077bbdbb162e070d:615
    - f0e80941a3a5470b8994f9f96b8fdd7a:531
@@ -163,7 +163,7 @@ theme/fullmoon:
    - 4576e7a6f9ee5cda56826e62b5c9a529:747
    - beff2da8568e9cffa1f8ea0bff728873:847
    - a382a58a8bf89a74b43a66223dea777b:3308
-   - 27cfbf31bbefc85fafb74f20df968cf0:848
+   - 9b35f1ad376610e5c3ae4411741085e8:807
    - 322a7aca4a6209ebeec668571d26ed98:34088
    - 57f1d02674689b7c33692513d188e44e:931
  Reannotate: themes.dat
