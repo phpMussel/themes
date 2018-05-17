@@ -2,7 +2,7 @@
 theme/rbi:
  Name: Theme: Red-Blue Inverted
  Extended Description: Exactly the same as the default theme, but with some of the colours swapped around. No big changes.<br /><em>Author: Caleb M (Maikuolan)</em>
- Version: 2017.211.314
+ Version: 2018.136.648
  Minimum Required: 1.0.0-DEV
  Remote: https://raw.githubusercontent.com/phpMussel/themes/master/FE/themes.dat
  Uninstallable: true
@@ -14,13 +14,13 @@ theme/rbi:
    - template_rbi.html
    - fe_assets/rbi/frontend.css
   Checksum:
-   - 388cff7d0365fa1930f8a29179d07c10:2049
+   - 02b98a5ffe28c2fc81eb195edb73baf1:2091
    - 476ac8d26016ab6aff9ac3014aedc2fb:5292
  Reannotate: themes.dat
 theme/slate:
  Name: Theme: Slate
  Extended Description: Simple layout; Gentle, darker colours.<br /><em>Author: Caleb M (Maikuolan)</em>
- Version: 2018.45.232
+ Version: 2018.136.648
  Minimum Required: 1.0.0-DEV
  Remote: https://raw.githubusercontent.com/phpMussel/themes/master/FE/themes.dat
  Uninstallable: true
@@ -38,7 +38,7 @@ theme/slate:
    - fe_assets/slate/frontend.html
    - fe_assets/slate/pips.php
   Checksum:
-   - 2ab735f5fab783eb515dff7fbbd6e0a6:2057
+   - 632a449a220bd65e0bd82a1ab1599d8e:2099
    - 73685f5f0e8a36dacbfcd8ecbc45daac:523
    - 7dda82de4be2323f16275d3c6894f039:3327
    - 7f583faedce11aa6fd8abf88c86e45ad:1033
@@ -47,7 +47,7 @@ theme/slate:
 theme/bluemetal:
  Name: Theme: Blue Metal
  Extended Description: Simple blue/black colour scheme with gentle tones.<br /><em>Author: Caleb M (Maikuolan), based on previous work by Daniel R.</em>
- Version: 2018.45.232
+ Version: 2018.136.648
  Minimum Required: 1.0.0-DEV
  Remote: https://raw.githubusercontent.com/phpMussel/themes/master/FE/themes.dat
  Uninstallable: true
@@ -65,7 +65,7 @@ theme/bluemetal:
    - fe_assets/bluemetal/frontend.html
    - fe_assets/bluemetal/pips.php
   Checksum:
-   - 8ddccead9f64ca505f90cc6422a45090:2171
+   - 5779b17a73332de9dbac7bc4cf036db8:2213
    - 73685f5f0e8a36dacbfcd8ecbc45daac:523
    - c479d8f506837c7f24a2d89345735b7a:3566
    - 7f583faedce11aa6fd8abf88c86e45ad:1033
@@ -74,7 +74,7 @@ theme/bluemetal:
 theme/moss:
  Name: Theme: Moss
  Extended Description: Inspired by the colours of nature.<br /><em>Author: Caleb M (Maikuolan)</em>
- Version: 2018.45.232
+ Version: 2018.136.648
  Minimum Required: 1.0.0-DEV
  Remote: https://raw.githubusercontent.com/phpMussel/themes/master/FE/themes.dat
  Uninstallable: true
@@ -92,7 +92,7 @@ theme/moss:
    - fe_assets/moss/frontend.css
    - fe_assets/moss/frontend.html
   Checksum:
-   - 84610b7d5db6207611924f1281fbf347:2081
+   - de8b02af5e1cf81ff8c53396e527471b:2123
    - 73685f5f0e8a36dacbfcd8ecbc45daac:523
    - 5182ba869b16c040409cf39980173d9c:17804
    - 3e1a1a9f04a12b312f1348d9e3d62189:3586
@@ -101,7 +101,7 @@ theme/moss:
 theme/fullmoon:
  Name: Theme: Full Moon
  Extended Description: Darker, semi-transparent colours; Navigation shifted to the top; No special fonts; Full moon backdrop.<br /><em>Author: Caleb M (Maikuolan)</em>
- Version: 2018.94.589
+ Version: 2018.136.648
  Minimum Required: 1.0.0-DEV
  Remote: https://raw.githubusercontent.com/phpMussel/themes/master/FE/themes.dat
  Uninstallable: true
