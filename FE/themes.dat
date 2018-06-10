@@ -101,7 +101,7 @@ theme/moss:
 theme/fullmoon:
  Name: Theme: Full Moon
  Extended Description: Darker, semi-transparent colours; Navigation shifted to the top; No special fonts; Full moon backdrop.<br /><em>Author: Caleb M (Maikuolan)</em>
- Version: 2018.158.017
+ Version: 2018.160.786
  Minimum Required: 1.0.0-DEV
  Remote: https://raw.githubusercontent.com/phpMussel/themes/master/FE/themes.dat
  Uninstallable: true
@@ -157,7 +157,7 @@ theme/fullmoon:
    - f0e80941a3a5470b8994f9f96b8fdd7a:531
    - 011f2d0e7ad3b6c9d633a63b934b4a39:2210
    - 73685f5f0e8a36dacbfcd8ecbc45daac:523
-   - 4e128ebf827ec9790bb9634cb71fbefa:119
+   - f419809acbfb7e3d42488dbff51a5406:132
    - 2c4b81fc8db83968d5482bcd241e92dc:713
    - 650a6c48172474927dd92c0d16217ddf:237
    - 12000c63600f4863e0df2fc5ecaa053e:568
