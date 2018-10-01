@@ -42,6 +42,7 @@ code,.nav{font-family:'Courier New',Courier,'Lucida Grande',Arial}
 .txtRd{color:#e7ab7d}
 .ufts{width:220px}
 @keyframes idxAn{0%{background:rgba(120,89,92,0.5)}100%{background:rgba(86,89,92,0.5)}}
+@keyframes UplT{0%{opacity:0.0}100%{opacity:1.0}}
 .mob{display:none}
 a[href="?phpmussel-page=logout"]{padding-left:10px;background-image:url(data:image/gif;base64,{PIP_Key});background-repeat:no-repeat;background-position:0% 50%}
 a[href="?phpmussel-page=logout"]:hover,a[href="?phpmussel-page=logout"]:active,a[href="?phpmussel-page=logout"]:focus{background-image:url(data:image/gif;base64,{PIP_Key2})}
