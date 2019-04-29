@@ -2,7 +2,7 @@
 theme/rbi:
  Name: Theme: Red-Blue Inverted
  Extended Description: Exactly the same as the default theme, but with some of the colours swapped around. No big changes.<br /><em>Author: Caleb M (Maikuolan)</em>
- Version: 2019.6.395
+ Version: 2019.118.465
  Minimum Required: 1.0.0-DEV
  Remote: https://raw.githubusercontent.com/phpMussel/themes/master/FE/themes.dat
  Uninstallable: true
@@ -15,12 +15,12 @@ theme/rbi:
    - fe_assets/rbi/frontend.css
   Checksum:
    - dfcde6b87c8f6f093a3d6a8360eb8fed:1967
-   - c99da4d91da3c84c262ca30a4de644e2:5885
+   - f32ec95822ff683e83163016409d1773ef38f44accd8a278459a5154c6bd344e:5982
  Reannotate: themes.dat
 theme/slate:
  Name: Theme: Slate
  Extended Description: Simple layout; Gentle, darker colours.<br /><em>Author: Caleb M (Maikuolan)</em>
- Version: 2019.6.395
+ Version: 2019.118.465
  Minimum Required: 1.0.0-DEV
  Remote: https://raw.githubusercontent.com/phpMussel/themes/master/FE/themes.dat
  Uninstallable: true
@@ -40,14 +40,14 @@ theme/slate:
   Checksum:
    - 8ec9f000674e6302042c235b26e49fb2:1975
    - 0985435baa77280b8a3d73fa083add70:511
-   - a12efeb24e3d045966f23e6ab18dd9d1:3920
+   - 282e9320b574f8e9927a2ee24594b18a40f84538e0a2742299383d01721845b7:4017
    - 80b4c44a814f1298b948d35eed591bff:1019
    - 89c0342c4af579457883936bc1cc2e50:927
  Reannotate: themes.dat
 theme/bluemetal:
  Name: Theme: Blue Metal
  Extended Description: Simple blue/black colour scheme with gentle tones.<br /><em>Author: Caleb M (Maikuolan), based on previous work by Daniel R.</em>
- Version: 2019.6.395
+ Version: 2019.118.465
  Minimum Required: 1.0.0-DEV
  Remote: https://raw.githubusercontent.com/phpMussel/themes/master/FE/themes.dat
  Uninstallable: true
@@ -67,14 +67,14 @@ theme/bluemetal:
   Checksum:
    - 8da7560db824e38154887d4b9db74076:2089
    - 0985435baa77280b8a3d73fa083add70:511
-   - ac664834d7c0f477997ad39523f8a3b6:4159
+   - 06dc843a0cc4f55103ad5284d04dffa6c80d080ca01651b886b0596a653d55eb:4256
    - 80b4c44a814f1298b948d35eed591bff:1019
    - 562f111a9da85c5f88ae8c51fc569f1b:900
  Reannotate: themes.dat
 theme/moss:
  Name: Theme: Moss
  Extended Description: Inspired by the colours of nature.<br /><em>Author: Caleb M (Maikuolan)</em>
- Version: 2019.6.395
+ Version: 2019.118.465
  Minimum Required: 1.0.0-DEV
  Remote: https://raw.githubusercontent.com/phpMussel/themes/master/FE/themes.dat
  Uninstallable: true
@@ -95,13 +95,13 @@ theme/moss:
    - f360d51e3a2287f3024447990423a0e0:1999
    - 0985435baa77280b8a3d73fa083add70:511
    - 5182ba869b16c040409cf39980173d9c:17804
-   - 837d8655d586df5601aad6dddc03e4ce:4179
+   - 8f9709353227fc4b2405a1eaf3b700ac667270b3b9ab8a9b9abc917a772aab4f:4276
    - 80b4c44a814f1298b948d35eed591bff:1019
  Reannotate: themes.dat
 theme/fullmoon:
  Name: Theme: Full Moon
  Extended Description: Darker, semi-transparent colours; Navigation shifted to the top; No special fonts; Full moon backdrop.<br /><em>Author: Caleb M (Maikuolan)</em>
- Version: 2019.106.394
+ Version: 2019.118.465
  Minimum Required: 1.0.0-DEV
  Remote: https://raw.githubusercontent.com/phpMussel/themes/master/FE/themes.dat
  Uninstallable: true
@@ -165,7 +165,7 @@ theme/fullmoon:
    - a04e6e1dbfc351016268a492a3c02305:2102
    - 0c2b9be045a04da3a48de107feb70c6d:731
    - 72f24bddd041b4d35b71e4e7b26f5268:502
-   - 13f43ae08938d3b23fdf1862342cbbfd:3901
+   - bcffacb50453e461acf179f097b4f4dde9e68cd013e57194d91c9dd5683542b8:3998
    - e33a42df93d465771f72ea1420fdb5a8:795
    - 322a7aca4a6209ebeec668571d26ed98:34088
    - 57f1d02674689b7c33692513d188e44e:931
