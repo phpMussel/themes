@@ -2,7 +2,7 @@
 theme/rbi:
  Name: Theme: Red-Blue Inverted
  Extended Description: Exactly the same as the default theme, but with some of the colours swapped around. No big changes.<br /><em>Author: Caleb M (Maikuolan)</em>
- Version: 2019.118.465
+ Version: 2019.228.685
  Minimum Required: 1.0.0-DEV
  Remote: https://raw.githubusercontent.com/phpMussel/themes/master/FE/themes.dat
  Uninstallable: true
@@ -14,13 +14,13 @@ theme/rbi:
    - template_rbi.html
    - fe_assets/rbi/frontend.css
   Checksum:
-   - dfcde6b87c8f6f093a3d6a8360eb8fed:1967
+   - 2619771043813250cc4d7a603942592aacb40c9418328f2cf4229321ec6b4a60:2012
    - f32ec95822ff683e83163016409d1773ef38f44accd8a278459a5154c6bd344e:5982
  Reannotate: themes.dat
 theme/slate:
  Name: Theme: Slate
  Extended Description: Simple layout; Gentle, darker colours.<br /><em>Author: Caleb M (Maikuolan)</em>
- Version: 2019.198.378
+ Version: 2019.228.685
  Minimum Required: 1.0.0-DEV
  Remote: https://raw.githubusercontent.com/phpMussel/themes/master/FE/themes.dat
  Uninstallable: true
@@ -38,16 +38,16 @@ theme/slate:
    - fe_assets/slate/frontend.html
    - fe_assets/slate/pips.php
   Checksum:
-   - 8ec9f000674e6302042c235b26e49fb2:1975
+   - d2686a4e8859cac3b621b5526713ad52d9ee8a45e5491e18ad6bfa704557a6b9:2020
    - cce013ba3f1b7393899155cd777e3163482706da2f7ed7dbf8be0eb52a4c38d7:567
    - 282e9320b574f8e9927a2ee24594b18a40f84538e0a2742299383d01721845b7:4017
-   - 80b4c44a814f1298b948d35eed591bff:1019
-   - 89c0342c4af579457883936bc1cc2e50:927
+   - 72db1b31cc2b4b255ac8c4fdee22c1a1797563f27ab237a5ee6e4be0dfc7fd58:1026
+   - ef650f2a5a28b172c4113884bdb4453ab3401de00780b51ec4f97f65d0fa2459:927
  Reannotate: themes.dat
 theme/bluemetal:
  Name: Theme: Blue Metal
  Extended Description: Simple blue/black colour scheme with gentle tones.<br /><em>Author: Caleb M (Maikuolan), based on previous work by Daniel R.</em>
- Version: 2019.198.378
+ Version: 2019.228.685
  Minimum Required: 1.0.0-DEV
  Remote: https://raw.githubusercontent.com/phpMussel/themes/master/FE/themes.dat
  Uninstallable: true
@@ -65,16 +65,16 @@ theme/bluemetal:
    - fe_assets/bluemetal/frontend.html
    - fe_assets/bluemetal/pips.php
   Checksum:
-   - 8da7560db824e38154887d4b9db74076:2089
+   - 4ebf5b1a64c53fa1931000cf3f5ea572c306e43a9abdb02ad56bfd2e79f03ae2:2134
    - cce013ba3f1b7393899155cd777e3163482706da2f7ed7dbf8be0eb52a4c38d7:567
    - 06dc843a0cc4f55103ad5284d04dffa6c80d080ca01651b886b0596a653d55eb:4256
-   - 80b4c44a814f1298b948d35eed591bff:1019
-   - 562f111a9da85c5f88ae8c51fc569f1b:900
+   - 72db1b31cc2b4b255ac8c4fdee22c1a1797563f27ab237a5ee6e4be0dfc7fd58:1026
+   - e680b526fddc0a28ee737fb6876e814d7eeb90f2e50e4cd80b74bd0c4a470594:900
  Reannotate: themes.dat
 theme/moss:
  Name: Theme: Moss
  Extended Description: Inspired by the colours of nature.<br /><em>Author: Caleb M (Maikuolan)</em>
- Version: 2019.198.378
+ Version: 2019.228.685
  Minimum Required: 1.0.0-DEV
  Remote: https://raw.githubusercontent.com/phpMussel/themes/master/FE/themes.dat
  Uninstallable: true
@@ -92,16 +92,16 @@ theme/moss:
    - fe_assets/moss/frontend.css
    - fe_assets/moss/frontend.html
   Checksum:
-   - f360d51e3a2287f3024447990423a0e0:1999
+   - 813cc152e121fcf846f69c5239d08deaf53b2a9bc58f09019fef54376ae2d228:2044
    - cce013ba3f1b7393899155cd777e3163482706da2f7ed7dbf8be0eb52a4c38d7:567
-   - 5182ba869b16c040409cf39980173d9c:17804
+   - ceb4497bbae40d04a2a8ecb42086307bc57677235685ea07bedf98795dea780f:17804
    - 8f9709353227fc4b2405a1eaf3b700ac667270b3b9ab8a9b9abc917a772aab4f:4276
-   - 80b4c44a814f1298b948d35eed591bff:1019
+   - 72db1b31cc2b4b255ac8c4fdee22c1a1797563f27ab237a5ee6e4be0dfc7fd58:1026
  Reannotate: themes.dat
 theme/fullmoon:
  Name: Theme: Full Moon
  Extended Description: Darker, semi-transparent colours; Navigation shifted to the top; No special fonts; Full moon backdrop.<br /><em>Author: Caleb M (Maikuolan)</em>
- Version: 2019.198.378
+ Version: 2019.228.685
  Minimum Required: 1.0.0-DEV
  Remote: https://raw.githubusercontent.com/phpMussel/themes/master/FE/themes.dat
  Uninstallable: true
@@ -150,24 +150,24 @@ theme/fullmoon:
    - fe_assets/fullmoon/pips.php
   Checksum:
    - 2b1ff6a245204d762de6c3801bac912d7bd97c5a1ad9073a17aa6392f4c63793:1859
-   - 7f4023a573ea35cefc0ecd5060893030:48
-   - c32ec124eb9bca33cdab73490b2891b2:705
-   - 9cda60413c04bb26086fca10af6ba024:952
-   - 959b8ed1c7679cbb2a11417b0ec9605d:624
-   - edaed3ff1b667fd8b4712aa98495585a:514
+   - b157e35ad544f3bad773e867060116cb7bc5b5a3196cfc354b74b17d64a287b8:48
+   - da00a4d91d26c52a46d49c320436cf9289d26be6c8e0592e1e2084bad658263f:705
+   - 0b209713596d56c5de7d35055efb3184a668f0971d3bb9981eb0cb76a28a5132:952
+   - 8df089b6dfc8707af8033b4080efedd1635c56fe9ca7bbb3a8685f217675b842:624
+   - 489b8c94b4ddaa9086998be6569bc9e74aa9c2d2b8147c38af3ed27405378bea:514
    - 9e3eea10b489ebd607c486b60238cf68e624be640936f58616f00b21a7d58937:2303
    - cce013ba3f1b7393899155cd777e3163482706da2f7ed7dbf8be0eb52a4c38d7:567
-   - f419809acbfb7e3d42488dbff51a5406:132
-   - b480a8ab1293b47137c8a2ffbc6aca62:768
-   - 650a6c48172474927dd92c0d16217ddf:237
-   - a4618ac2f59d343a576efe648fca3718:574
-   - 044d9909703e0363475f38862d6ef19e:952
-   - a04e6e1dbfc351016268a492a3c02305:2102
-   - 0c2b9be045a04da3a48de107feb70c6d:731
-   - 72f24bddd041b4d35b71e4e7b26f5268:502
+   - 7a4d0e8c9ca7790d76b0064937730843935cd92c9fd10bb1d132b95b83c8f2c2:132
+   - a7248368bea598b5a8942d57c19143fe4130ae29a96deccce9be243ae376c44a:768
+   - 7df463e5279e1b90ebc46d94e5cb249305f2de7abda82d9def4bfa4eddb41d4b:237
+   - 6e25cac917eb3e6d9c9bb0329c6a999c43b578b1dcabbe19f84cc327dd618cd4:574
+   - c6f6c0d2f9a6ea322f268656de41f447610103e330f2f967aede0bc0d3b633d4:952
+   - c5e4220195f0c9ae94104187e2fab195f9e721a9c8b85188bfe7ca189b5f17a7:2102
+   - 9b72d6cc43fc3d2174739615b702d8809b15dd54cfc2cfb0b5b6fb153ccf6592:731
+   - 894c971b8ee672dba6d4f2f94682122d705db185e2b10f5d8ca6368b604a0303:502
    - bcffacb50453e461acf179f097b4f4dde9e68cd013e57194d91c9dd5683542b8:3998
-   - e33a42df93d465771f72ea1420fdb5a8:795
-   - 322a7aca4a6209ebeec668571d26ed98:34088
-   - 57f1d02674689b7c33692513d188e44e:931
+   - 96cf377420350eab45f053a4a254026a5603430ce4505e13a42baad75147360c:802
+   - 17703149e6f8a4312527243bfaf369c2dfa73e56c50d4d2fdb2b9f8fa0b332c3:34088
+   - 0cfad9a12ef9e8ce1da80ce670e3cd6d504536978c6cb9f28b2b183ef5893229:931
  Reannotate: themes.dat
 
