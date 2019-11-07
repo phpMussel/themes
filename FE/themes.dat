@@ -2,7 +2,7 @@
 theme/rbi:
  Name: Theme: Red-Blue Inverted
  Extended Description: Exactly the same as the default theme, but with some of the colours swapped around. No big changes.<br /><em>Author: Caleb M (Maikuolan)</em>
- Version: 2019.228.685
+ Version: 2019.309.679
  Minimum Required: 1.0.0-DEV
  Remote: https://raw.githubusercontent.com/phpMussel/themes/master/FE/themes.dat
  Uninstallable: true
@@ -15,12 +15,12 @@ theme/rbi:
    - fe_assets/rbi/frontend.css
   Checksum:
    - 2619771043813250cc4d7a603942592aacb40c9418328f2cf4229321ec6b4a60:2012
-   - f32ec95822ff683e83163016409d1773ef38f44accd8a278459a5154c6bd344e:5982
+   - 26ed428660c327c4d9d2a38826a76471ac7b556127869f4398d83340aa232c83:5999
  Reannotate: themes.dat
 theme/slate:
  Name: Theme: Slate
  Extended Description: Simple layout; Gentle, darker colours.<br /><em>Author: Caleb M (Maikuolan)</em>
- Version: 2019.228.685
+ Version: 2019.309.679
  Minimum Required: 1.0.0-DEV
  Remote: https://raw.githubusercontent.com/phpMussel/themes/master/FE/themes.dat
  Uninstallable: true
@@ -40,14 +40,14 @@ theme/slate:
   Checksum:
    - d2686a4e8859cac3b621b5526713ad52d9ee8a45e5491e18ad6bfa704557a6b9:2020
    - cce013ba3f1b7393899155cd777e3163482706da2f7ed7dbf8be0eb52a4c38d7:567
-   - 282e9320b574f8e9927a2ee24594b18a40f84538e0a2742299383d01721845b7:4017
+   - de20ec6b33a4f851bf8dc5fc7ab87fea252b884663147ddf1c8aa590f958aab4:4034
    - 72db1b31cc2b4b255ac8c4fdee22c1a1797563f27ab237a5ee6e4be0dfc7fd58:1026
    - ef650f2a5a28b172c4113884bdb4453ab3401de00780b51ec4f97f65d0fa2459:927
  Reannotate: themes.dat
 theme/bluemetal:
  Name: Theme: Blue Metal
  Extended Description: Simple blue/black colour scheme with gentle tones.<br /><em>Author: Caleb M (Maikuolan), based on previous work by Daniel R.</em>
- Version: 2019.228.685
+ Version: 2019.309.679
  Minimum Required: 1.0.0-DEV
  Remote: https://raw.githubusercontent.com/phpMussel/themes/master/FE/themes.dat
  Uninstallable: true
@@ -67,14 +67,14 @@ theme/bluemetal:
   Checksum:
    - 4ebf5b1a64c53fa1931000cf3f5ea572c306e43a9abdb02ad56bfd2e79f03ae2:2134
    - cce013ba3f1b7393899155cd777e3163482706da2f7ed7dbf8be0eb52a4c38d7:567
-   - 06dc843a0cc4f55103ad5284d04dffa6c80d080ca01651b886b0596a653d55eb:4256
+   - 3b9b6c582a8cec7341d588dd81bb5593326cb992ad9b85b644b82fd794475211:4273
    - 72db1b31cc2b4b255ac8c4fdee22c1a1797563f27ab237a5ee6e4be0dfc7fd58:1026
    - e680b526fddc0a28ee737fb6876e814d7eeb90f2e50e4cd80b74bd0c4a470594:900
  Reannotate: themes.dat
 theme/moss:
  Name: Theme: Moss
  Extended Description: Inspired by the colours of nature.<br /><em>Author: Caleb M (Maikuolan)</em>
- Version: 2019.228.685
+ Version: 2019.309.679
  Minimum Required: 1.0.0-DEV
  Remote: https://raw.githubusercontent.com/phpMussel/themes/master/FE/themes.dat
  Uninstallable: true
@@ -95,13 +95,13 @@ theme/moss:
    - 813cc152e121fcf846f69c5239d08deaf53b2a9bc58f09019fef54376ae2d228:2044
    - cce013ba3f1b7393899155cd777e3163482706da2f7ed7dbf8be0eb52a4c38d7:567
    - ceb4497bbae40d04a2a8ecb42086307bc57677235685ea07bedf98795dea780f:17804
-   - 8f9709353227fc4b2405a1eaf3b700ac667270b3b9ab8a9b9abc917a772aab4f:4276
+   - 80a9ab48abbba268fdc5b7d89bfd1a005174be9d75450cb39eb4350d3608974c:4293
    - 72db1b31cc2b4b255ac8c4fdee22c1a1797563f27ab237a5ee6e4be0dfc7fd58:1026
  Reannotate: themes.dat
 theme/fullmoon:
  Name: Theme: Full Moon
  Extended Description: Darker, semi-transparent colours; Navigation shifted to the top; No special fonts; Full moon backdrop.<br /><em>Author: Caleb M (Maikuolan)</em>
- Version: 2019.228.685
+ Version: 2019.309.679
  Minimum Required: 1.0.0-DEV
  Remote: https://raw.githubusercontent.com/phpMussel/themes/master/FE/themes.dat
  Uninstallable: true
@@ -155,7 +155,7 @@ theme/fullmoon:
    - 0b209713596d56c5de7d35055efb3184a668f0971d3bb9981eb0cb76a28a5132:952
    - 8df089b6dfc8707af8033b4080efedd1635c56fe9ca7bbb3a8685f217675b842:624
    - 489b8c94b4ddaa9086998be6569bc9e74aa9c2d2b8147c38af3ed27405378bea:514
-   - 9e3eea10b489ebd607c486b60238cf68e624be640936f58616f00b21a7d58937:2303
+   - bd3bec82453b5240817674c250b3e4eaaa5f9bee3152c1070c23d056a9fee7d4:2457
    - cce013ba3f1b7393899155cd777e3163482706da2f7ed7dbf8be0eb52a4c38d7:567
    - 7a4d0e8c9ca7790d76b0064937730843935cd92c9fd10bb1d132b95b83c8f2c2:132
    - a7248368bea598b5a8942d57c19143fe4130ae29a96deccce9be243ae376c44a:768
@@ -165,7 +165,7 @@ theme/fullmoon:
    - c5e4220195f0c9ae94104187e2fab195f9e721a9c8b85188bfe7ca189b5f17a7:2102
    - 9b72d6cc43fc3d2174739615b702d8809b15dd54cfc2cfb0b5b6fb153ccf6592:731
    - 894c971b8ee672dba6d4f2f94682122d705db185e2b10f5d8ca6368b604a0303:502
-   - bcffacb50453e461acf179f097b4f4dde9e68cd013e57194d91c9dd5683542b8:3998
+   - 1cb0eb5e88ba9939ee821ea4b3143477979e82e612650e482b4a760423ddcb27:4015
    - 96cf377420350eab45f053a4a254026a5603430ce4505e13a42baad75147360c:802
    - 17703149e6f8a4312527243bfaf369c2dfa73e56c50d4d2fdb2b9f8fa0b332c3:34088
    - 0cfad9a12ef9e8ce1da80ce670e3cd6d504536978c6cb9f28b2b183ef5893229:931
