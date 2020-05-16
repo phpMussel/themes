@@ -3,7 +3,7 @@ theme/rbi:
  Name: Theme: Red-Blue Inverted
  Extended Description: <img src="https://raw.githubusercontent.com/phpMussel/themes/master/FE/preview-rbi.png" alt="Preview" /><br />Exactly the same as the default theme, but with some of the colours swapped around. No big changes.<br /><em>Author: Caleb M (Maikuolan)</em>
  Version: 2020.127.326
- Minimum Required: 1.0.0-DEV
+ Minimum Required: 1.0.0
  Remote: https://raw.githubusercontent.com/phpMussel/themes/master/FE/themes.dat
  Uninstallable: true
  Files:
@@ -21,7 +21,7 @@ theme/slate:
  Name: Theme: Slate
  Extended Description: <img src="https://raw.githubusercontent.com/phpMussel/themes/master/FE/preview-slate.png" alt="Preview" /><br />Simple layout; Gentle, darker colours.<br /><em>Author: Caleb M (Maikuolan)</em>
  Version: 2020.127.326
- Minimum Required: 1.0.0-DEV
+ Minimum Required: 1.0.0
  Remote: https://raw.githubusercontent.com/phpMussel/themes/master/FE/themes.dat
  Uninstallable: true
  Files:
@@ -48,7 +48,7 @@ theme/bluemetal:
  Name: Theme: Blue Metal
  Extended Description: <img src="https://raw.githubusercontent.com/phpMussel/themes/master/FE/preview-bluemetal.png" alt="Preview" /><br />Simple blue/black colour scheme with gentle tones.<br /><em>Author: Caleb M (Maikuolan), based on previous work by Daniel R.</em>
  Version: 2020.127.326
- Minimum Required: 1.0.0-DEV
+ Minimum Required: 1.0.0
  Remote: https://raw.githubusercontent.com/phpMussel/themes/master/FE/themes.dat
  Uninstallable: true
  Files:
@@ -75,7 +75,7 @@ theme/moss:
  Name: Theme: Moss
  Extended Description: <img src="https://raw.githubusercontent.com/phpMussel/themes/master/FE/preview-moss.png" alt="Preview" /><br />Inspired by the colours of nature.<br /><em>Author: Caleb M (Maikuolan)</em>
  Version: 2020.127.326
- Minimum Required: 1.0.0-DEV
+ Minimum Required: 1.0.0
  Remote: https://raw.githubusercontent.com/phpMussel/themes/master/FE/themes.dat
  Uninstallable: true
  Files:
@@ -102,7 +102,7 @@ theme/fullmoon:
  Name: Theme: Full Moon
  Extended Description: <img src="https://raw.githubusercontent.com/phpMussel/themes/master/FE/preview-fullmoon.png" alt="Preview" /><br />Darker, semi-transparent colours; Navigation shifted to the top; No special fonts; Full moon backdrop.<br /><em>Author: Caleb M (Maikuolan)</em>
  Version: 2020.127.326
- Minimum Required: 1.0.0-DEV
+ Minimum Required: 1.0.0
  Remote: https://raw.githubusercontent.com/phpMussel/themes/master/FE/themes.dat
  Uninstallable: true
  Files:
@@ -155,11 +155,11 @@ theme/fullmoon:
    - 0b209713596d56c5de7d35055efb3184a668f0971d3bb9981eb0cb76a28a5132:952
    - 8df089b6dfc8707af8033b4080efedd1635c56fe9ca7bbb3a8685f217675b842:624
    - 489b8c94b4ddaa9086998be6569bc9e74aa9c2d2b8147c38af3ed27405378bea:514
-   - bd3bec82453b5240817674c250b3e4eaaa5f9bee3152c1070c23d056a9fee7d4:2457
+   - fea0bf3fcc8002d19394322ccc3f36331bcb83bb2ac818c00a37817263764071:2509
    - cce013ba3f1b7393899155cd777e3163482706da2f7ed7dbf8be0eb52a4c38d7:567
    - 7a4d0e8c9ca7790d76b0064937730843935cd92c9fd10bb1d132b95b83c8f2c2:132
-   - cd1fe29a42dc2fdb4cfed962d8d5b73d6ac186f342b147a6da9db8840909ccdd:806
-   - a0a5cc611ed7f1aabcdbbb480e90eda22d0ad225321260911c492c170f46bf86:275
+   - 11f663867130f7d2ec0ef5d2fed8c7d6dff0c11b39566cc5197c7b277aec234e:854
+   - 17422ae6b3aeedf3da93593bc974615aeaf6a51c508642bb28ac5a6ddbd4681d:323
    - 6e25cac917eb3e6d9c9bb0329c6a999c43b578b1dcabbe19f84cc327dd618cd4:574
    - c6f6c0d2f9a6ea322f268656de41f447610103e330f2f967aede0bc0d3b633d4:952
    - c5e4220195f0c9ae94104187e2fab195f9e721a9c8b85188bfe7ca189b5f17a7:2102
