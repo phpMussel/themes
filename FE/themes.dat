@@ -101,7 +101,7 @@ theme/moss:
 theme/fullmoon:
  Name: Theme: Full Moon
  Extended Description: <img src="https://raw.githubusercontent.com/phpMussel/themes/master/FE/preview-fullmoon.png" alt="Preview" /><br />Darker, semi-transparent colours; Navigation shifted to the top; No special fonts; Full moon backdrop.<br /><em>Author: Caleb M (Maikuolan)</em>
- Version: 2020.154.505
+ Version: 2020.184.411
  Minimum Required: 1.0.0
  Remote: https://raw.githubusercontent.com/phpMussel/themes/master/FE/themes.dat
  Uninstallable: true
@@ -120,6 +120,7 @@ theme/fullmoon:
    - https://raw.githubusercontent.com/phpMussel/themes/master/FE/fullmoon/_nav_logs_access_only.html
    - https://raw.githubusercontent.com/phpMussel/themes/master/FE/fullmoon/_quarantine.html
    - https://raw.githubusercontent.com/phpMussel/themes/master/FE/fullmoon/_quarantine_row.html
+   - https://raw.githubusercontent.com/phpMussel/themes/master/FE/fullmoon/_siginfo.html
    - https://raw.githubusercontent.com/phpMussel/themes/master/FE/fullmoon/_statistics.html
    - https://raw.githubusercontent.com/phpMussel/themes/master/FE/fullmoon/_updates.html
    - https://raw.githubusercontent.com/phpMussel/themes/master/FE/fullmoon/_upload_test.html
@@ -141,6 +142,7 @@ theme/fullmoon:
    - fe_assets/fullmoon/_nav_logs_access_only.html
    - fe_assets/fullmoon/_quarantine.html
    - fe_assets/fullmoon/_quarantine_row.html
+   - fe_assets/fullmoon/_siginfo.html
    - fe_assets/fullmoon/_statistics.html
    - fe_assets/fullmoon/_updates.html
    - fe_assets/fullmoon/_upload_test.html
@@ -162,6 +164,7 @@ theme/fullmoon:
    - 94e79c9de822f9bfa5b658fe864e0b53d0f6827e008f1cff11dfdc8e2e86b130:457
    - 6e25cac917eb3e6d9c9bb0329c6a999c43b578b1dcabbe19f84cc327dd618cd4:574
    - c6f6c0d2f9a6ea322f268656de41f447610103e330f2f967aede0bc0d3b633d4:952
+   - d1f0e6309778e1bf27d93845c489f88f0158c9fb721cf3968fc855d6ae2df861:548
    - c5e4220195f0c9ae94104187e2fab195f9e721a9c8b85188bfe7ca189b5f17a7:2102
    - 9b72d6cc43fc3d2174739615b702d8809b15dd54cfc2cfb0b5b6fb153ccf6592:731
    - 894c971b8ee672dba6d4f2f94682122d705db185e2b10f5d8ca6368b604a0303:502
