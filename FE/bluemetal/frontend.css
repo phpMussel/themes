@@ -1,5 +1,5 @@
 *{vertical-align:text-top}
-body,input,select,textarea,.idx{font-size:calc(12px * {Magnification});background-repeat:no-repeat}
+body,input,select,textarea,.idx{font-size:calc(12px * {Magnification})}
 body{font-family:'Merriweather','PT Serif',sans-serif,'Lucida Grande',Tahoma,Verdana,Arial;letter-spacing:1px;text-decoration:none;border-style:none;margin:0;padding:0;white-space:normal;background-color:#333;color:#222;background-image:url(data:image/gif;base64,R0lGODdhAwADAIACADMzM1VicCwAAAAAAwADAAACBIQRBwUAOw==);background-attachment:fixed}
 code{font-family:monospace;background-color:#555;color:#111}
 hr{border-style:solid none none;border-width:1px;margin:5px 2px 0;padding:2px;color:#89b}
