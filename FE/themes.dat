@@ -2,7 +2,7 @@
 theme/rbi:
  Name: Theme: Red-Blue Inverted
  Extended Description: <img src="https://raw.githubusercontent.com/phpMussel/themes/master/FE/preview-rbi.png" alt="Preview" /><br />Exactly the same as the default theme, but with some of the colours swapped around. No big changes.<br /><em>Author: Caleb M (Maikuolan)</em>
- Version: 2020.213.716
+ Version: 2020.217.400
  Minimum Required: 1.0.0
  Remote: https://raw.githubusercontent.com/phpMussel/themes/master/FE/themes.dat
  Uninstallable: true
@@ -15,12 +15,12 @@ theme/rbi:
    - fe_assets/rbi/frontend.css
   Checksum:
    - eb19ff5721af9b401f7a5ee3c6bcca0f9b997539cd90c6dd0460e163fd4d15ad:1996
-   - d70cd3a709f34117e5baf2598a9cc83bdd4489415e586a6ebb37f43c81e32c86:6636
+   - 83eecc03fb02cfd6ca991873bf6c06572c219d5a12f9894be66ebcd0fbb9b879:6923
  Reannotate: themes.dat
 theme/slate:
  Name: Theme: Slate
  Extended Description: <img src="https://raw.githubusercontent.com/phpMussel/themes/master/FE/preview-slate.png" alt="Preview" /><br />Simple layout; Gentle, darker colours.<br /><em>Author: Caleb M (Maikuolan)</em>
- Version: 2020.213.716
+ Version: 2020.217.400
  Minimum Required: 1.0.0
  Remote: https://raw.githubusercontent.com/phpMussel/themes/master/FE/themes.dat
  Uninstallable: true
@@ -39,15 +39,15 @@ theme/slate:
    - fe_assets/slate/pips.php
   Checksum:
    - 23a4ef4ba3db6c1a95bae25cbb5b92cb8dec70c89ca07aa7340266ce46c8aad2:2004
-   - cce013ba3f1b7393899155cd777e3163482706da2f7ed7dbf8be0eb52a4c38d7:567
-   - d0ab3cea3d9b35e9dbcdda5b7e46ea81179c312285d8764f9aedbf285b388f90:4671
+   - f711b6f37def252fc514319dcaaef8e8209c428ca938ee822dd3758b5ce37d8d:758
+   - 4736b02ec3eb6b894d3f8938296fc6d0ea9900116186b856db4bea761c0f96c1:4958
    - 633403494b7aeee968da1a08f18d672203a2c3bcab51fb8d721cfe44993714ce:978
-   - ef650f2a5a28b172c4113884bdb4453ab3401de00780b51ec4f97f65d0fa2459:927
+   - 98075ed5479645048407ae092a308ff8cfc8eb88e2a6e5bc1cc80d161935d103:812
  Reannotate: themes.dat
 theme/bluemetal:
  Name: Theme: Blue Metal
  Extended Description: <img src="https://raw.githubusercontent.com/phpMussel/themes/master/FE/preview-bluemetal.png" alt="Preview" /><br />Simple blue/black colour scheme with gentle tones.<br /><em>Author: Caleb M (Maikuolan), based on previous work by Daniel R.</em>
- Version: 2020.213.716
+ Version: 2020.217.400
  Minimum Required: 1.0.0
  Remote: https://raw.githubusercontent.com/phpMussel/themes/master/FE/themes.dat
  Uninstallable: true
@@ -66,15 +66,15 @@ theme/bluemetal:
    - fe_assets/bluemetal/pips.php
   Checksum:
    - 78032cd79df68b47fdfd3cead2106e2616bb6928eb12c0bf8f2e3a2d0c0df43c:2118
-   - cce013ba3f1b7393899155cd777e3163482706da2f7ed7dbf8be0eb52a4c38d7:567
-   - 479bcdd9d94edeff89dc69e85eb3aa68cd749a17f271203212feea3916c21063:4882
+   - f711b6f37def252fc514319dcaaef8e8209c428ca938ee822dd3758b5ce37d8d:758
+   - e9e0b296d45d2c6344ca73d947b996ae3deb99caa3ad2137adae7e007565f365:5169
    - 633403494b7aeee968da1a08f18d672203a2c3bcab51fb8d721cfe44993714ce:978
-   - e680b526fddc0a28ee737fb6876e814d7eeb90f2e50e4cd80b74bd0c4a470594:900
+   - 559940663a3bf5b51913d83779e35f8d0213b0fad45fd1a4dcae5f6db7e906df:793
  Reannotate: themes.dat
 theme/moss:
  Name: Theme: Moss
  Extended Description: <img src="https://raw.githubusercontent.com/phpMussel/themes/master/FE/preview-moss.png" alt="Preview" /><br />Inspired by the colours of nature.<br /><em>Author: Caleb M (Maikuolan)</em>
- Version: 2020.213.716
+ Version: 2020.217.400
  Minimum Required: 1.0.0
  Remote: https://raw.githubusercontent.com/phpMussel/themes/master/FE/themes.dat
  Uninstallable: true
@@ -93,15 +93,15 @@ theme/moss:
    - fe_assets/moss/frontend.html
   Checksum:
    - 455716b13537710acef17b774f3f6bd91302438b32066324f08dc8be9026fa6d:2028
-   - cce013ba3f1b7393899155cd777e3163482706da2f7ed7dbf8be0eb52a4c38d7:567
+   - f711b6f37def252fc514319dcaaef8e8209c428ca938ee822dd3758b5ce37d8d:758
    - ceb4497bbae40d04a2a8ecb42086307bc57677235685ea07bedf98795dea780f:17804
-   - 7a1753f205cae697f08317b34ae860c80f29f4f6bca9b1e875bc9b60567b91d9:4933
+   - 926e2c1639c46211f2191723f78aa40f17e3dfd0d9cecef7905a9b9d6ce6cc19:5220
    - 633403494b7aeee968da1a08f18d672203a2c3bcab51fb8d721cfe44993714ce:978
  Reannotate: themes.dat
 theme/fullmoon:
  Name: Theme: Full Moon
  Extended Description: <img src="https://raw.githubusercontent.com/phpMussel/themes/master/FE/preview-fullmoon.png" alt="Preview" /><br />Darker, semi-transparent colours; Navigation shifted to the top; No special fonts; Full moon backdrop.<br /><em>Author: Caleb M (Maikuolan)</em>
- Version: 2020.213.716
+ Version: 2020.217.400
  Minimum Required: 1.0.0
  Remote: https://raw.githubusercontent.com/phpMussel/themes/master/FE/themes.dat
  Uninstallable: true
@@ -158,19 +158,19 @@ theme/fullmoon:
    - 8df089b6dfc8707af8033b4080efedd1635c56fe9ca7bbb3a8685f217675b842:624
    - 489b8c94b4ddaa9086998be6569bc9e74aa9c2d2b8147c38af3ed27405378bea:514
    - 4c3231194eb2baaf55f65be0594b3418109b8db7614e67017e66b0ebdc45f56d:1377
-   - cce013ba3f1b7393899155cd777e3163482706da2f7ed7dbf8be0eb52a4c38d7:567
+   - f711b6f37def252fc514319dcaaef8e8209c428ca938ee822dd3758b5ce37d8d:758
    - 7a4d0e8c9ca7790d76b0064937730843935cd92c9fd10bb1d132b95b83c8f2c2:132
-   - c53f4496b7cf2d5890f1a68c002e13e74fc75c7a487bbad7224158be3a573a80:1090
-   - 94e79c9de822f9bfa5b658fe864e0b53d0f6827e008f1cff11dfdc8e2e86b130:457
+   - c03b84545ba7d3c841c03e93e1a4731f5760b0b06222c515f22db504019b4550:989
+   - 404be79f95757ea2b3a04a8776aadd2a9533b54feac782fbc4e561866dc28b5c:356
    - 6e25cac917eb3e6d9c9bb0329c6a999c43b578b1dcabbe19f84cc327dd618cd4:574
    - c6f6c0d2f9a6ea322f268656de41f447610103e330f2f967aede0bc0d3b633d4:952
    - d1f0e6309778e1bf27d93845c489f88f0158c9fb721cf3968fc855d6ae2df861:548
    - c5e4220195f0c9ae94104187e2fab195f9e721a9c8b85188bfe7ca189b5f17a7:2102
    - 9b72d6cc43fc3d2174739615b702d8809b15dd54cfc2cfb0b5b6fb153ccf6592:731
    - 894c971b8ee672dba6d4f2f94682122d705db185e2b10f5d8ca6368b604a0303:502
-   - 2d2f45ae6d5974ae44b58d6d0310a7b501d8d1b32c5b8ceeafd39af5a6310037:4655
-   - c4283be7f79f72e7e1f4806cd5f1469e0666a4d56ec41b66bd13b38dfba5ed32:762
+   - ba48291863e2c72103168dc0ea41b725637ba9b938efc44209b769ae9361868c:4359
+   - 1590b2cdebd7579c90ae5dbead78ce35bc98de5bf870b8889dd3c5897a17bf88:774
    - 17703149e6f8a4312527243bfaf369c2dfa73e56c50d4d2fdb2b9f8fa0b332c3:34088
-   - 0cfad9a12ef9e8ce1da80ce670e3cd6d504536978c6cb9f28b2b183ef5893229:931
+   - afd8b4e72e5ccc193e9fbb58ffa47e779c5ec39ef2e05d08c4093d7fcf0d0150:816
  Reannotate: themes.dat
 
