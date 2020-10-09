@@ -2,7 +2,7 @@
 theme/rbi:
  Name: Theme: Red-Blue Inverted
  Extended Description: <img src="https://raw.githubusercontent.com/phpMussel/themes/master/FE/preview-rbi.png" alt="Preview" /><br />Exactly the same as the default theme, but with some of the colours swapped around. No big changes.<br /><em>Author: Caleb M (Maikuolan)</em>
- Version: 2020.234.325
+ Version: 2020.282.219
  Minimum Required: 1.0.0
  Remote: https://raw.githubusercontent.com/phpMussel/themes/master/FE/themes.dat
  Uninstallable: true
@@ -15,12 +15,12 @@ theme/rbi:
    - fe_assets/rbi/frontend.css
   Checksum:
    - eb19ff5721af9b401f7a5ee3c6bcca0f9b997539cd90c6dd0460e163fd4d15ad:1996
-   - 701c16d1fbac10db196b8d0f66375232dce5f4f8aac4dc4603d96b3f54aab0d8:7483
+   - 9597d0fb2fc1bc6995fefb2ce11252854429f3c0c7e00a38a4c4a980af44e378:7541
  Reannotate: themes.dat
 theme/slate:
  Name: Theme: Slate
  Extended Description: <img src="https://raw.githubusercontent.com/phpMussel/themes/master/FE/preview-slate.png" alt="Preview" /><br />Simple layout; Gentle, darker colours.<br /><em>Author: Caleb M (Maikuolan)</em>
- Version: 2020.234.325
+ Version: 2020.282.219
  Minimum Required: 1.0.0
  Remote: https://raw.githubusercontent.com/phpMussel/themes/master/FE/themes.dat
  Uninstallable: true
@@ -40,14 +40,14 @@ theme/slate:
   Checksum:
    - 23a4ef4ba3db6c1a95bae25cbb5b92cb8dec70c89ca07aa7340266ce46c8aad2:2004
    - f711b6f37def252fc514319dcaaef8e8209c428ca938ee822dd3758b5ce37d8d:758
-   - 88bc15bbcedc1453e9912d4d52d88d73bbae22cf4797fe9f821d5fc72fbb5e62:5518
+   - e8393ca2e531d1159bf0ae03501db3e8cba737850a908b73ac7f44ade7cfdf5e:5576
    - 633403494b7aeee968da1a08f18d672203a2c3bcab51fb8d721cfe44993714ce:978
    - 98075ed5479645048407ae092a308ff8cfc8eb88e2a6e5bc1cc80d161935d103:812
  Reannotate: themes.dat
 theme/bluemetal:
  Name: Theme: Blue Metal
  Extended Description: <img src="https://raw.githubusercontent.com/phpMussel/themes/master/FE/preview-bluemetal.png" alt="Preview" /><br />Simple blue/black colour scheme with gentle tones.<br /><em>Author: Caleb M (Maikuolan), based on previous work by Daniel R.</em>
- Version: 2020.234.325
+ Version: 2020.282.219
  Minimum Required: 1.0.0
  Remote: https://raw.githubusercontent.com/phpMussel/themes/master/FE/themes.dat
  Uninstallable: true
@@ -67,14 +67,14 @@ theme/bluemetal:
   Checksum:
    - 78032cd79df68b47fdfd3cead2106e2616bb6928eb12c0bf8f2e3a2d0c0df43c:2118
    - f711b6f37def252fc514319dcaaef8e8209c428ca938ee822dd3758b5ce37d8d:758
-   - 9b42570122599feef54595d87aef93960e5acce13e26fad63035a84ffbaa8fc7:5729
+   - a5c5a21f4f63e1f1775cb6e0e573a74adc7e1192debdf6871d68a4fc42143485:5787
    - 633403494b7aeee968da1a08f18d672203a2c3bcab51fb8d721cfe44993714ce:978
    - 559940663a3bf5b51913d83779e35f8d0213b0fad45fd1a4dcae5f6db7e906df:793
  Reannotate: themes.dat
 theme/moss:
  Name: Theme: Moss
  Extended Description: <img src="https://raw.githubusercontent.com/phpMussel/themes/master/FE/preview-moss.png" alt="Preview" /><br />Inspired by the colours of nature.<br /><em>Author: Caleb M (Maikuolan)</em>
- Version: 2020.234.325
+ Version: 2020.282.219
  Minimum Required: 1.0.0
  Remote: https://raw.githubusercontent.com/phpMussel/themes/master/FE/themes.dat
  Uninstallable: true
@@ -95,13 +95,13 @@ theme/moss:
    - 455716b13537710acef17b774f3f6bd91302438b32066324f08dc8be9026fa6d:2028
    - f711b6f37def252fc514319dcaaef8e8209c428ca938ee822dd3758b5ce37d8d:758
    - ceb4497bbae40d04a2a8ecb42086307bc57677235685ea07bedf98795dea780f:17804
-   - 2be308d990284e9e2187491cf44afa6471d688d44eb465b7e010d240013c07ee:5780
+   - bc61a35c3d1df385efb484ccfb54bb33dcdc6780489ed37662da728d12695f75:5838
    - 633403494b7aeee968da1a08f18d672203a2c3bcab51fb8d721cfe44993714ce:978
  Reannotate: themes.dat
 theme/fullmoon:
  Name: Theme: Full Moon
  Extended Description: <img src="https://raw.githubusercontent.com/phpMussel/themes/master/FE/preview-fullmoon.png" alt="Preview" /><br />Darker, semi-transparent colours; Navigation shifted to the top; No special fonts; Full moon backdrop.<br /><em>Author: Caleb M (Maikuolan)</em>
- Version: 2020.234.325
+ Version: 2020.282.219
  Minimum Required: 1.0.0
  Remote: https://raw.githubusercontent.com/phpMussel/themes/master/FE/themes.dat
  Uninstallable: true
@@ -157,7 +157,7 @@ theme/fullmoon:
    - 0b209713596d56c5de7d35055efb3184a668f0971d3bb9981eb0cb76a28a5132:952
    - 8df089b6dfc8707af8033b4080efedd1635c56fe9ca7bbb3a8685f217675b842:624
    - 489b8c94b4ddaa9086998be6569bc9e74aa9c2d2b8147c38af3ed27405378bea:514
-   - 4c3231194eb2baaf55f65be0594b3418109b8db7614e67017e66b0ebdc45f56d:1377
+   - f428b78b0bf069ca8237db73dad9dca92be87ec04912511ca79f412f8f328660:1616
    - f711b6f37def252fc514319dcaaef8e8209c428ca938ee822dd3758b5ce37d8d:758
    - 7a4d0e8c9ca7790d76b0064937730843935cd92c9fd10bb1d132b95b83c8f2c2:132
    - c03b84545ba7d3c841c03e93e1a4731f5760b0b06222c515f22db504019b4550:989
@@ -165,10 +165,10 @@ theme/fullmoon:
    - 6e25cac917eb3e6d9c9bb0329c6a999c43b578b1dcabbe19f84cc327dd618cd4:574
    - c6f6c0d2f9a6ea322f268656de41f447610103e330f2f967aede0bc0d3b633d4:952
    - d1f0e6309778e1bf27d93845c489f88f0158c9fb721cf3968fc855d6ae2df861:548
-   - c5e4220195f0c9ae94104187e2fab195f9e721a9c8b85188bfe7ca189b5f17a7:2102
+   - 4eca713d4d2a8ee43dbf30847220caa412820a5bae59ecc51cb2d3a33028feba:3077
    - 8dff7258fa322bf8ab802cbe9dd7ae3fde0e4d5ec751854f1146aac6ea10099e:730
    - 894c971b8ee672dba6d4f2f94682122d705db185e2b10f5d8ca6368b604a0303:502
-   - b1bdc9bf9140423d58356949e8f166290d0622c07dbc25a41e91dd1e89673a51:4919
+   - 411d1c457b92a4fe61f501e4b6fba2277daa730cb7ba355d5445d12fdea4be28:4977
    - 1590b2cdebd7579c90ae5dbead78ce35bc98de5bf870b8889dd3c5897a17bf88:774
    - 17703149e6f8a4312527243bfaf369c2dfa73e56c50d4d2fdb2b9f8fa0b332c3:34088
    - afd8b4e72e5ccc193e9fbb58ffa47e779c5ec39ef2e05d08c4093d7fcf0d0150:816
@@ -176,7 +176,7 @@ theme/fullmoon:
 theme/primer:
  Name: Theme: Primer
  Extended Description: <img src="https://raw.githubusercontent.com/phpMussel/themes/master/FE/preview-primer.png" alt="Preview" /><br />Inspired by the "Primer Design System" (utilised by GitHub, Facebook, etc).
- Version: 2020.234.325
+ Version: 2020.282.219
  Minimum Required: 1.0.0
  Remote: https://raw.githubusercontent.com/phpMussel/themes/master/FE/themes.dat
  Uninstallable: true
@@ -200,7 +200,37 @@ theme/primer:
    - f711b6f37def252fc514319dcaaef8e8209c428ca938ee822dd3758b5ce37d8d:758
    - eb22e71610b58a547e3ceca0c9b577d1ec14fdc66e62ad9ee1ec45c41930e4aa:1366
    - 67f4188e50c14d4c43b28db1b97d23eae20df9a5d6665a8f42f9d7e2fd125045:607
-   - a699e3ea4c8af5bee8b2e00ab1b3bdd4cf02c02eb6fdba8ecf24c84e2f831f32:7381
+   - 96325ba6694372fa681e6252ca65573826fd3af44e7484f3e085dfa1b951935b:7920
+   - c29cb934d1ab680c663da87fe8d8869b46fe0abbd3a52efe26ed85c048f0ee30:797
+ Reannotate: themes.dat
+theme/primerdark:
+ Name: Theme: Primer Dark
+ Extended Description: <img src="https://raw.githubusercontent.com/phpMussel/themes/master/FE/preview-primerdark.png" alt="Preview" /><br />A darker version of the Primer theme.
+ Version: 2020.282.219
+ Minimum Required: 1.0.0
+ Remote: https://raw.githubusercontent.com/phpMussel/themes/master/FE/themes.dat
+ Uninstallable: true
+ Files:
+  From:
+   - https://raw.githubusercontent.com/phpMussel/themes/master/FE/template_primerdark.html
+   - https://raw.githubusercontent.com/phpMussel/themes/master/FE/primerdark/_login.html
+   - https://raw.githubusercontent.com/phpMussel/themes/master/FE/primerdark/_nav_complete_access.html
+   - https://raw.githubusercontent.com/phpMussel/themes/master/FE/primerdark/_nav_logs_access_only.html
+   - https://raw.githubusercontent.com/phpMussel/themes/master/FE/primerdark/frontend.css
+   - https://raw.githubusercontent.com/phpMussel/themes/master/FE/primerdark/frontend.html
+  To:
+   - template_primerdark.html
+   - fe_assets/primerdark/_login.html
+   - fe_assets/primerdark/_nav_complete_access.html
+   - fe_assets/primerdark/_nav_logs_access_only.html
+   - fe_assets/primerdark/frontend.css
+   - fe_assets/primerdark/frontend.html
+  Checksum:
+   - 03e603d3cd4b35411094921e36b12b2374af5715f95618629546283a4d36c3fa:2032
+   - f711b6f37def252fc514319dcaaef8e8209c428ca938ee822dd3758b5ce37d8d:758
+   - eb22e71610b58a547e3ceca0c9b577d1ec14fdc66e62ad9ee1ec45c41930e4aa:1366
+   - 67f4188e50c14d4c43b28db1b97d23eae20df9a5d6665a8f42f9d7e2fd125045:607
+   - e43542320543a5e3d140f23a342b802cb9399b58d46e411e9881eeb4b337c5fc:7886
    - c29cb934d1ab680c663da87fe8d8869b46fe0abbd3a52efe26ed85c048f0ee30:797
  Reannotate: themes.dat
 
