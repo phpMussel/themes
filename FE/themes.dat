@@ -2,7 +2,7 @@
 theme/rbi:
  Name: Theme: Red-Blue Inverted
  Extended Description: <img src="https://raw.githubusercontent.com/phpMussel/themes/master/FE/preview-rbi.png" alt="Preview" /><br />Exactly the same as the default theme, but with some of the colours swapped around. No big changes.<br /><em>Author: Caleb M (Maikuolan)</em>
- Version: 2021.126.472
+ Version: 2021.157.631
  Dependencies:
   phpMussel Core: ^1.14|^2.3
   phpMussel Front-End: ^1.14|^2.3
@@ -18,12 +18,12 @@ theme/rbi:
    - fe_assets/rbi/frontend.css
   Checksum:
    - eb19ff5721af9b401f7a5ee3c6bcca0f9b997539cd90c6dd0460e163fd4d15ad:1996
-   - 982fa8b25abbd024a315885e379151b9d328d9405d3aefbf1850f3033f2937ce:7802
+   - 95797a41eae65e84319ad4bda5307c3298224e1c237ee7959ea6ad365dc93cde:8317
  Reannotate: themes.dat
 theme/slate:
  Name: Theme: Slate
  Extended Description: <img src="https://raw.githubusercontent.com/phpMussel/themes/master/FE/preview-slate.png" alt="Preview" /><br />Simple layout; Gentle, darker colours.<br /><em>Author: Caleb M (Maikuolan)</em>
- Version: 2021.126.472
+ Version: 2021.157.631
  Dependencies:
   phpMussel Core: ^1.14|^2.3
   phpMussel Front-End: ^1.14|^2.3
@@ -43,14 +43,14 @@ theme/slate:
    - fe_assets/slate/pips.php
   Checksum:
    - 23a4ef4ba3db6c1a95bae25cbb5b92cb8dec70c89ca07aa7340266ce46c8aad2:2004
-   - 197a7656a3fa547db83b0c78fec03af4f1cd24327c4bd4fb0f96566c18bea375:5837
+   - 12e5e1151bab1f0f9c8c954522d2902a25319b9646cd2866c0a3a14ddd86b998:6352
    - 77a13a76c317ea997d1aec9fadfb0044b7147ac05c87607b839c88dde99b937c:1024
    - 4a33a7063095b88a48e6bddf613c016d431249df2cee59c9b2c2b89a1d2cf812:779
  Reannotate: themes.dat
 theme/bluemetal:
  Name: Theme: Blue Metal
  Extended Description: <img src="https://raw.githubusercontent.com/phpMussel/themes/master/FE/preview-bluemetal.png" alt="Preview" /><br />Simple blue/black colour scheme with gentle tones.<br /><em>Author: Caleb M (Maikuolan), based on previous work by Daniel R.</em>
- Version: 2021.126.472
+ Version: 2021.157.631
  Dependencies:
   phpMussel Core: ^1.14|^2.3
   phpMussel Front-End: ^1.14|^2.3
@@ -70,14 +70,14 @@ theme/bluemetal:
    - fe_assets/bluemetal/pips.php
   Checksum:
    - 78032cd79df68b47fdfd3cead2106e2616bb6928eb12c0bf8f2e3a2d0c0df43c:2118
-   - 919f4fae7593f2da316fd52670a6eb352078c624d09b7fbd0efbab10b5501dbc:5947
+   - f4d40e28a98b9687b5cccd1d301a3453b2a200eef9c78e9704f466c23be99524:6462
    - 77a13a76c317ea997d1aec9fadfb0044b7147ac05c87607b839c88dde99b937c:1024
    - d35099a220e9c0b9a3025c8f3eded9ce90283f0342406ec6176a7d89cfca9b07:760
  Reannotate: themes.dat
 theme/moss:
  Name: Theme: Moss
  Extended Description: <img src="https://raw.githubusercontent.com/phpMussel/themes/master/FE/preview-moss.png" alt="Preview" /><br />Inspired by the colours of nature.<br /><em>Author: Caleb M (Maikuolan)</em>
- Version: 2021.126.472
+ Version: 2021.157.631
  Dependencies:
   phpMussel Core: ^1.14|^2.3
   phpMussel Front-End: ^1.14|^2.3
@@ -98,13 +98,13 @@ theme/moss:
   Checksum:
    - 455716b13537710acef17b774f3f6bd91302438b32066324f08dc8be9026fa6d:2028
    - ceb4497bbae40d04a2a8ecb42086307bc57677235685ea07bedf98795dea780f:17804
-   - 2dcc0aa5e6ee61cb53a710ac2287c53a05796861fdad6c7a86492eedf99fc6f5:6111
+   - 6a2cb4b715be1a681bb3ee0c8c36cee515ee95f07e92f626d18c0cb422b936eb:6626
    - 77a13a76c317ea997d1aec9fadfb0044b7147ac05c87607b839c88dde99b937c:1024
  Reannotate: themes.dat
 theme/fullmoon:
  Name: Theme: Full Moon
  Extended Description: <img src="https://raw.githubusercontent.com/phpMussel/themes/master/FE/preview-fullmoon.png" alt="Preview" /><br />Darker, semi-transparent colours; Navigation shifted to the top; No special fonts; Full moon backdrop.<br /><em>Author: Caleb M (Maikuolan)</em>
- Version: 2021.126.472
+ Version: 2021.157.631
  Dependencies:
   phpMussel Core: ^1.14|^2.3
   phpMussel Front-End: ^1.14|^2.3
@@ -161,7 +161,7 @@ theme/fullmoon:
    - 0b209713596d56c5de7d35055efb3184a668f0971d3bb9981eb0cb76a28a5132:952
    - 8df089b6dfc8707af8033b4080efedd1635c56fe9ca7bbb3a8685f217675b842:624
    - 489b8c94b4ddaa9086998be6569bc9e74aa9c2d2b8147c38af3ed27405378bea:514
-   - f428b78b0bf069ca8237db73dad9dca92be87ec04912511ca79f412f8f328660:1616
+   - 01682cf88f4de3a99243492de355b7d75fda753817aa433cd2f3b5c5ca337bb7:1538
    - 7a4d0e8c9ca7790d76b0064937730843935cd92c9fd10bb1d132b95b83c8f2c2:132
    - c03b84545ba7d3c841c03e93e1a4731f5760b0b06222c515f22db504019b4550:989
    - 404be79f95757ea2b3a04a8776aadd2a9533b54feac782fbc4e561866dc28b5c:356
@@ -171,7 +171,7 @@ theme/fullmoon:
    - 4eca713d4d2a8ee43dbf30847220caa412820a5bae59ecc51cb2d3a33028feba:3077
    - 8dff7258fa322bf8ab802cbe9dd7ae3fde0e4d5ec751854f1146aac6ea10099e:730
    - 894c971b8ee672dba6d4f2f94682122d705db185e2b10f5d8ca6368b604a0303:502
-   - 8abfd9a11550d96ea96a819903f3c4853dd0a1760cf9384d0b0dfd2a988200b6:5250
+   - 66f344cb1f48dd79e4ebf6a507e15d8b57da1a0cafeaa4c9facf84576b80e7a4:5765
    - 63d88bee3b1d5cde55c73d1d645729f1ab37c84a8e52f38854ceab54f516d92f:820
    - 17703149e6f8a4312527243bfaf369c2dfa73e56c50d4d2fdb2b9f8fa0b332c3:34088
    - f0c04977cdf0033b1bbfb64594b32e916344e93857471daf620da55188d59e85:783
@@ -179,7 +179,7 @@ theme/fullmoon:
 theme/primer:
  Name: Theme: Primer
  Extended Description: <img src="https://raw.githubusercontent.com/phpMussel/themes/master/FE/preview-primer.png" alt="Preview" /><br />Inspired by the "Primer Design System" (utilised by GitHub, Facebook, etc).
- Version: 2021.126.472
+ Version: 2021.157.631
  Dependencies:
   phpMussel Core: ^1.14|^2.3
   phpMussel Front-End: ^1.14|^2.3
@@ -203,13 +203,13 @@ theme/primer:
    - 9686449541739770839a9bbe08225ed42d6f1a7dda044fba406bf54d6df1f7a3:2042
    - eb22e71610b58a547e3ceca0c9b577d1ec14fdc66e62ad9ee1ec45c41930e4aa:1366
    - 67f4188e50c14d4c43b28db1b97d23eae20df9a5d6665a8f42f9d7e2fd125045:607
-   - 2798c6920eb57c6b06c207d787c4dc55291cd1191f289d5b7e8603e2e5f60261:6055
+   - 990b202e8ee0d36eb4dffd56322f05f9d0c2be71aa78afadd3d37e5f0e001a5b:6570
    - 64eed6aad783d172f8530162de5059171d7dc880dcdf7c80cf7cc95f9bae3549:843
  Reannotate: themes.dat
 theme/primerdark:
  Name: Theme: Primer Dark
  Extended Description: <img src="https://raw.githubusercontent.com/phpMussel/themes/master/FE/preview-primerdark.png" alt="Preview" /><br />A darker version of the Primer theme.
- Version: 2021.126.472
+ Version: 2021.157.631
  Dependencies:
   phpMussel Core: ^1.14|^2.3
   phpMussel Front-End: ^1.14|^2.3
@@ -233,7 +233,7 @@ theme/primerdark:
    - 03e603d3cd4b35411094921e36b12b2374af5715f95618629546283a4d36c3fa:2032
    - eb22e71610b58a547e3ceca0c9b577d1ec14fdc66e62ad9ee1ec45c41930e4aa:1366
    - 67f4188e50c14d4c43b28db1b97d23eae20df9a5d6665a8f42f9d7e2fd125045:607
-   - 9cb19c217e570948796c1700391c236b1652282c08dff208695178e470c0a29f:6090
+   - 3e59f6509cd1ece55464c0f1f0807e6a182c0f9fcbf3f727234d1451191a448b:6605
    - 64eed6aad783d172f8530162de5059171d7dc880dcdf7c80cf7cc95f9bae3549:843
  Reannotate: themes.dat
 
