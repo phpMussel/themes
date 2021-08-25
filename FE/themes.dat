@@ -2,7 +2,7 @@
 theme/rbi:
  Name: Theme: Red-Blue Inverted
  Extended Description: <img src="https://raw.githubusercontent.com/phpMussel/themes/master/FE/preview-rbi.png" alt="Preview" /><br />Exactly the same as the default theme, but with some of the colours swapped around. No big changes.<br /><em>Author: Caleb M (Maikuolan)</em>
- Version: 2021.220.452
+ Version: 2021.236.702
  Dependencies:
   phpMussel Core: ^1.14|^2.3
   phpMussel Front-End: ^1.14|^2.3
@@ -17,13 +17,13 @@ theme/rbi:
    - template_rbi.html
    - fe_assets/rbi/frontend.css
   Checksum:
-   - eb19ff5721af9b401f7a5ee3c6bcca0f9b997539cd90c6dd0460e163fd4d15ad:1996
-   - bfc30885748b98f21e61fa2908c071a43c536b773aa786466f9290f2372b33a8:8674
+   - 29df9eb66c6beddce169860a891c182d3648c99337714c10db38a8cbb8c37f45:2040
+   - 6c3bea153fa500087324187286fd56b9e1744cd3c6ac4a45ff07f58611ba332e:8798
  Reannotate: themes.dat
 theme/slate:
  Name: Theme: Slate
  Extended Description: <img src="https://raw.githubusercontent.com/phpMussel/themes/master/FE/preview-slate.png" alt="Preview" /><br />Simple layout; Gentle, darker colours.<br /><em>Author: Caleb M (Maikuolan)</em>
- Version: 2021.220.452
+ Version: 2021.236.702
  Dependencies:
   phpMussel Core: ^1.14|^2.3
   phpMussel Front-End: ^1.14|^2.3
@@ -42,15 +42,15 @@ theme/slate:
    - fe_assets/slate/frontend.html
    - fe_assets/slate/pips.php
   Checksum:
-   - 2a2fabc89ae92cacaf68dcb0bc81c82ee1da021ffa22799ed0afa91ee66f00af:2004
-   - be12f100de1c7e978b652ca297d5383f2d43ae52938a55464b65b7e455a88d39:6709
+   - 4846b212fc8b1fe70315d8f29abed8d3b6718629319fa70bee06f4de853ecb09:2048
+   - e0f9895f4d6643f9c4d6294dbc1da91fba83d2bad52241e1e2300971442eeeba:6832
    - 77a13a76c317ea997d1aec9fadfb0044b7147ac05c87607b839c88dde99b937c:1024
    - 4a33a7063095b88a48e6bddf613c016d431249df2cee59c9b2c2b89a1d2cf812:779
  Reannotate: themes.dat
 theme/bluemetal:
  Name: Theme: Blue Metal
  Extended Description: <img src="https://raw.githubusercontent.com/phpMussel/themes/master/FE/preview-bluemetal.png" alt="Preview" /><br />Simple blue/black colour scheme with gentle tones.<br /><em>Author: Caleb M (Maikuolan), based on previous work by Daniel R.</em>
- Version: 2021.220.452
+ Version: 2021.236.702
  Dependencies:
   phpMussel Core: ^1.14|^2.3
   phpMussel Front-End: ^1.14|^2.3
@@ -69,15 +69,15 @@ theme/bluemetal:
    - fe_assets/bluemetal/frontend.html
    - fe_assets/bluemetal/pips.php
   Checksum:
-   - 4abbbbf55d7325721fb16f022ef999ca59e01211ff3baf8e2626fe7df70c14a9:2118
-   - c33e34a8ff393d68a6e3e53f41d5423f1a0fdefde79c3afd31a55c241213ba5f:6807
+   - 80fb543eb878dad89e6b7db75e7f79fd408e63e777423664d76b657415dd9aa3:2162
+   - 3401402741bf4c58ce18c4f6347a022d197df8cc988af6296a788562601bef16:6923
    - 77a13a76c317ea997d1aec9fadfb0044b7147ac05c87607b839c88dde99b937c:1024
    - d35099a220e9c0b9a3025c8f3eded9ce90283f0342406ec6176a7d89cfca9b07:760
  Reannotate: themes.dat
 theme/moss:
  Name: Theme: Moss
  Extended Description: <img src="https://raw.githubusercontent.com/phpMussel/themes/master/FE/preview-moss.png" alt="Preview" /><br />Inspired by the colours of nature.<br /><em>Author: Caleb M (Maikuolan)</em>
- Version: 2021.220.452
+ Version: 2021.236.702
  Dependencies:
   phpMussel Core: ^1.14|^2.3
   phpMussel Front-End: ^1.14|^2.3
@@ -96,15 +96,15 @@ theme/moss:
    - fe_assets/moss/frontend.css
    - fe_assets/moss/frontend.html
   Checksum:
-   - 455716b13537710acef17b774f3f6bd91302438b32066324f08dc8be9026fa6d:2028
+   - 019cbf8f001af89e13f0855462e9fa203df3be8bf2882501b7831cdd83b8d587:2072
    - ceb4497bbae40d04a2a8ecb42086307bc57677235685ea07bedf98795dea780f:17804
-   - d319790ddbd86057e05738cea04a9892a38a87f4ecf8449dabf40a66277f8c7c:6983
+   - 350ffc5d14e0c95ee9bf99049d8ddc2a520282129dabf295917d095b06747d03:7099
    - 77a13a76c317ea997d1aec9fadfb0044b7147ac05c87607b839c88dde99b937c:1024
  Reannotate: themes.dat
 theme/fullmoon:
  Name: Theme: Full Moon
  Extended Description: <img src="https://raw.githubusercontent.com/phpMussel/themes/master/FE/preview-fullmoon.png" alt="Preview" /><br />Darker, semi-transparent colours; Navigation shifted to the top; No special fonts; Full moon backdrop.<br /><em>Author: Caleb M (Maikuolan)</em>
- Version: 2021.220.452
+ Version: 2021.236.702
  Dependencies:
   phpMussel Core: ^1.14|^2.3
   phpMussel Front-End: ^1.14|^2.3
@@ -158,7 +158,7 @@ theme/fullmoon:
    - 2b1ff6a245204d762de6c3801bac912d7bd97c5a1ad9073a17aa6392f4c63793:1859
    - b157e35ad544f3bad773e867060116cb7bc5b5a3196cfc354b74b17d64a287b8:48
    - da00a4d91d26c52a46d49c320436cf9289d26be6c8e0592e1e2084bad658263f:705
-   - 0b209713596d56c5de7d35055efb3184a668f0971d3bb9981eb0cb76a28a5132:952
+   - f4cb40bfd32f0793e79dd5a617b72e95c5e4c16159bf23c3367bc9578043b208:956
    - 8df089b6dfc8707af8033b4080efedd1635c56fe9ca7bbb3a8685f217675b842:624
    - 489b8c94b4ddaa9086998be6569bc9e74aa9c2d2b8147c38af3ed27405378bea:514
    - 01682cf88f4de3a99243492de355b7d75fda753817aa433cd2f3b5c5ca337bb7:1538
@@ -166,12 +166,12 @@ theme/fullmoon:
    - c03b84545ba7d3c841c03e93e1a4731f5760b0b06222c515f22db504019b4550:989
    - 404be79f95757ea2b3a04a8776aadd2a9533b54feac782fbc4e561866dc28b5c:356
    - 6e25cac917eb3e6d9c9bb0329c6a999c43b578b1dcabbe19f84cc327dd618cd4:574
-   - c6f6c0d2f9a6ea322f268656de41f447610103e330f2f967aede0bc0d3b633d4:952
+   - 5a1834825e83155d50ab1082e1296720a80077c237c873ffd688849ebc88ecbe:957
    - d1f0e6309778e1bf27d93845c489f88f0158c9fb721cf3968fc855d6ae2df861:548
    - 4eca713d4d2a8ee43dbf30847220caa412820a5bae59ecc51cb2d3a33028feba:3077
    - 8dff7258fa322bf8ab802cbe9dd7ae3fde0e4d5ec751854f1146aac6ea10099e:730
    - 894c971b8ee672dba6d4f2f94682122d705db185e2b10f5d8ca6368b604a0303:502
-   - 8ce2f18721003f8e10a6966bdce49f4b8419a0e773707409b9ad02997b76fdb6:6100
+   - 5eb7af9fc27b539941e188d06121024756d366fa8903344939950968a1c6dfcf:6165
    - 63d88bee3b1d5cde55c73d1d645729f1ab37c84a8e52f38854ceab54f516d92f:820
    - 17703149e6f8a4312527243bfaf369c2dfa73e56c50d4d2fdb2b9f8fa0b332c3:34088
    - f0c04977cdf0033b1bbfb64594b32e916344e93857471daf620da55188d59e85:783
@@ -179,7 +179,7 @@ theme/fullmoon:
 theme/primer:
  Name: Theme: Primer
  Extended Description: <img src="https://raw.githubusercontent.com/phpMussel/themes/master/FE/preview-primer.png" alt="Preview" /><br />Inspired by the "Primer Design System" (utilised by GitHub, Facebook, etc).
- Version: 2021.220.452
+ Version: 2021.236.702
  Dependencies:
   phpMussel Core: ^1.14|^2.3
   phpMussel Front-End: ^1.14|^2.3
@@ -200,16 +200,16 @@ theme/primer:
    - fe_assets/primer/frontend.css
    - fe_assets/primer/frontend.html
   Checksum:
-   - 9686449541739770839a9bbe08225ed42d6f1a7dda044fba406bf54d6df1f7a3:2042
+   - ae97ee95e66dea5f787e4e3e0e9acae7b3b5437320cd8e62ad85ebb22cade23a:2086
    - eb22e71610b58a547e3ceca0c9b577d1ec14fdc66e62ad9ee1ec45c41930e4aa:1366
    - 67f4188e50c14d4c43b28db1b97d23eae20df9a5d6665a8f42f9d7e2fd125045:607
-   - b6faf42e345210c5ce12af93ac88316bf94bad2d7c169ccb72170d7bc6610595:6771
+   - d22567d629c43196c2295bcd6fa3d17655cb931cb75833a4d5b6b8d0a2b206e0:6844
    - 64eed6aad783d172f8530162de5059171d7dc880dcdf7c80cf7cc95f9bae3549:843
  Reannotate: themes.dat
 theme/primerdark:
  Name: Theme: Primer Dark
  Extended Description: <img src="https://raw.githubusercontent.com/phpMussel/themes/master/FE/preview-primerdark.png" alt="Preview" /><br />A darker version of the Primer theme.
- Version: 2021.220.452
+ Version: 2021.236.702
  Dependencies:
   phpMussel Core: ^1.14|^2.3
   phpMussel Front-End: ^1.14|^2.3
@@ -230,10 +230,10 @@ theme/primerdark:
    - fe_assets/primerdark/frontend.css
    - fe_assets/primerdark/frontend.html
   Checksum:
-   - 03e603d3cd4b35411094921e36b12b2374af5715f95618629546283a4d36c3fa:2032
+   - a40d5ea5d7f8a50bac5cb28c9dc6cb1bb3e420c558e26393eb018f4d39bf8753:2076
    - eb22e71610b58a547e3ceca0c9b577d1ec14fdc66e62ad9ee1ec45c41930e4aa:1366
    - 67f4188e50c14d4c43b28db1b97d23eae20df9a5d6665a8f42f9d7e2fd125045:607
-   - 6f399fe632c888b4071df616fbad4f4aed8e03d62856d85eb8b5e9b7554289e2:6783
+   - ed90dd3f8ec7eb20e14c3216bf9071c93460e2297776e305161daa0ddb7ccb07:6857
    - 64eed6aad783d172f8530162de5059171d7dc880dcdf7c80cf7cc95f9bae3549:843
  Reannotate: themes.dat
 
