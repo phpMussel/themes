@@ -1,239 +1,238 @@
 ---
-theme/rbi:
- Name: Theme: Red-Blue Inverted
- Extended Description: <img src="https://raw.githubusercontent.com/phpMussel/themes/master/FE/preview-rbi.png" alt="Preview" /><br />Exactly the same as the default theme, but with some of the colours swapped around. No big changes.<br /><em>Author: Caleb M (Maikuolan)</em>
- Version: "2022.56.0"
- Dependencies:
-  phpMussel Core: ^1.14|^2.3
-  phpMussel Front-End: ^1.14|^2.3
-  l10n/{lang}: >=2021.95.583
- Remote: https://raw.githubusercontent.com/phpMussel/themes/master/FE/themes.dat
- Uninstallable: true
- Files:
-  From:
-   - https://raw.githubusercontent.com/phpMussel/themes/master/FE/template_rbi.html
-   - https://raw.githubusercontent.com/phpMussel/themes/master/FE/rbi/frontend.css
-  To:
-   - template_rbi.html
-   - fe_assets/rbi/frontend.css
-  Checksum:
-   - 29df9eb66c6beddce169860a891c182d3648c99337714c10db38a8cbb8c37f45:2040
-   - 0057dc6a446f4d355f03982f3f870906060b00bb93a7b0f85761b18fc2bf44b8:10404
- Reannotate: themes.dat
-theme/slate:
- Name: Theme: Slate
- Extended Description: <img src="https://raw.githubusercontent.com/phpMussel/themes/master/FE/preview-slate.png" alt="Preview" /><br />Simple layout; Gentle, darker colours.<br /><em>Author: Caleb M (Maikuolan)</em>
- Version: "2022.56.0"
- Dependencies:
-  phpMussel Core: ^1.14|^2.3
-  phpMussel Front-End: ^1.14|^2.3
-  l10n/{lang}: >=2021.95.583
- Remote: https://raw.githubusercontent.com/phpMussel/themes/master/FE/themes.dat
- Uninstallable: true
- Files:
-  From:
-   - https://raw.githubusercontent.com/phpMussel/themes/master/FE/template_slate.html
-   - https://raw.githubusercontent.com/phpMussel/themes/master/FE/slate/frontend.css
-   - https://raw.githubusercontent.com/phpMussel/themes/master/FE/slate/frontend.html
-   - https://raw.githubusercontent.com/phpMussel/themes/master/FE/slate/pips.php
-  To:
-   - template_slate.html
-   - fe_assets/slate/frontend.css
-   - fe_assets/slate/frontend.html
-   - fe_assets/slate/pips.php
-  Checksum:
-   - f4283c3c2b8b3aa18f5689725dbf00b5cac110bcea796947557c7f9701457610:1867
-   - 69da57bcf75759d0d5ca03d920efc4c25152867dd120ed8eecb2a13fcd4ec9be:8317
-   - 77a13a76c317ea997d1aec9fadfb0044b7147ac05c87607b839c88dde99b937c:1024
-   - fcaa0ccd6f4f9777470537f80c615bde4c9232133797b8afaa8018a0b5251562:1317
- Reannotate: themes.dat
 theme/bluemetal:
- Name: Theme: Blue Metal
- Extended Description: <img src="https://raw.githubusercontent.com/phpMussel/themes/master/FE/preview-bluemetal.png" alt="Preview" /><br />Simple blue/black colour scheme with gentle tones.<br /><em>Author: Caleb M (Maikuolan), based on previous work by Daniel R.</em>
- Version: "2022.56.0"
+ Name: "Theme: Blue Metal"
+ Extended Description: "<img src="https://raw.githubusercontent.com/phpMussel/themes/master/FE/preview-bluemetal.png" alt="Preview" /><br />Simple blue/black colour scheme with gentle tones.<br /><em>Author: Caleb M (Maikuolan), based on previous work by Daniel R.</em>"
+ Version: "2022.59.0"
  Dependencies:
-  phpMussel Core: ^1.14|^2.3
-  phpMussel Front-End: ^1.14|^2.3
-  l10n/{lang}: >=2021.95.583
- Remote: https://raw.githubusercontent.com/phpMussel/themes/master/FE/themes.dat
+  phpMussel Core: "^1.14|^2.3"
+  phpMussel Front-End: "^1.14|^2.3"
+  l10n/{lang}: ">=2021.95.583"
+ Remote: "https://raw.githubusercontent.com/phpMussel/themes/master/FE/themes.dat"
  Uninstallable: true
  Files:
   From:
-   - https://raw.githubusercontent.com/phpMussel/themes/master/FE/template_bluemetal.html
-   - https://raw.githubusercontent.com/phpMussel/themes/master/FE/bluemetal/frontend.css
-   - https://raw.githubusercontent.com/phpMussel/themes/master/FE/bluemetal/frontend.html
-   - https://raw.githubusercontent.com/phpMussel/themes/master/FE/bluemetal/pips.php
+   - "https://raw.githubusercontent.com/phpMussel/themes/master/FE/template_bluemetal.html"
+   - "https://raw.githubusercontent.com/phpMussel/themes/master/FE/bluemetal/frontend.css"
+   - "https://raw.githubusercontent.com/phpMussel/themes/master/FE/bluemetal/frontend.html"
+   - "https://raw.githubusercontent.com/phpMussel/themes/master/FE/bluemetal/pips.php"
   To:
-   - template_bluemetal.html
-   - fe_assets/bluemetal/frontend.css
-   - fe_assets/bluemetal/frontend.html
-   - fe_assets/bluemetal/pips.php
+   - "template_bluemetal.html"
+   - "fe_assets/bluemetal/frontend.css"
+   - "fe_assets/bluemetal/frontend.html"
+   - "fe_assets/bluemetal/pips.php"
   Checksum:
-   - 31a4ed595d2193137ad3ecd7f0511ba5d921ff9cfe2aa82d7ccab0c85d2a024a:1992
-   - 6edf2a60552d53cde798a14caf8467bf8858f36f6043347bcf96221d4de95b2e:8453
-   - 77a13a76c317ea997d1aec9fadfb0044b7147ac05c87607b839c88dde99b937c:1024
-   - fde565fb5afd936fdf2249df55093e74443f46185bd68118a4b57ccb93c884a8:1322
- Reannotate: themes.dat
-theme/moss:
- Name: Theme: Moss
- Extended Description: <img src="https://raw.githubusercontent.com/phpMussel/themes/master/FE/preview-moss.png" alt="Preview" /><br />Inspired by the colours of nature.<br /><em>Author: Caleb M (Maikuolan)</em>
- Version: "2022.56.0"
- Dependencies:
-  phpMussel Core: ^1.14|^2.3
-  phpMussel Front-End: ^1.14|^2.3
-  l10n/{lang}: >=2021.95.583
- Remote: https://raw.githubusercontent.com/phpMussel/themes/master/FE/themes.dat
- Uninstallable: true
- Files:
-  From:
-   - https://raw.githubusercontent.com/phpMussel/themes/master/FE/template_moss.html
-   - https://raw.githubusercontent.com/phpMussel/themes/master/FE/moss/bg.png
-   - https://raw.githubusercontent.com/phpMussel/themes/master/FE/moss/frontend.css
-   - https://raw.githubusercontent.com/phpMussel/themes/master/FE/moss/frontend.html
-  To:
-   - template_moss.html
-   - fe_assets/moss/bg.png
-   - fe_assets/moss/frontend.css
-   - fe_assets/moss/frontend.html
-  Checksum:
-   - 492febd8c958a2af6e5eb036b94693b5c5befd1aa588686b87193bb92a55ce50:1902
-   - ceb4497bbae40d04a2a8ecb42086307bc57677235685ea07bedf98795dea780f:17804
-   - 413af836f67825734b77e99daf1e7ab788b46911910c0a163b3ef42b31bf95fa:8627
-   - 77a13a76c317ea997d1aec9fadfb0044b7147ac05c87607b839c88dde99b937c:1024
- Reannotate: themes.dat
+   - "31a4ed595d2193137ad3ecd7f0511ba5d921ff9cfe2aa82d7ccab0c85d2a024a:1992"
+   - "df43607a327e93700a5de489bd8c5392e77579d420f698d0ddd4399e54f83b47:8717"
+   - "77a13a76c317ea997d1aec9fadfb0044b7147ac05c87607b839c88dde99b937c:1024"
+   - "fde565fb5afd936fdf2249df55093e74443f46185bd68118a4b57ccb93c884a8:1322"
+ Reannotate: "themes.dat"
 theme/fullmoon:
- Name: Theme: Full Moon
- Extended Description: <img src="https://raw.githubusercontent.com/phpMussel/themes/master/FE/preview-fullmoon.png" alt="Preview" /><br />Darker, semi-transparent colours; Navigation shifted to the top; No special fonts; Full moon backdrop.<br /><em>Author: Caleb M (Maikuolan)</em>
- Version: "2022.56.0"
+ Name: "Theme: Full Moon"
+ Extended Description: "<img src="https://raw.githubusercontent.com/phpMussel/themes/master/FE/preview-fullmoon.png" alt="Preview" /><br />Darker, semi-transparent colours; Navigation shifted to the top; No special fonts; Full moon backdrop.<br /><em>Author: Caleb M (Maikuolan)</em>"
+ Version: "2022.59.0"
  Dependencies:
-  phpMussel Core: ^1.14|^2.3
-  phpMussel Front-End: ^1.14|^2.3
-  l10n/{lang}: >=2021.95.583
- Remote: https://raw.githubusercontent.com/phpMussel/themes/master/FE/themes.dat
+  phpMussel Core: "^1.14|^2.3"
+  phpMussel Front-End: "^1.14|^2.3"
+  l10n/{lang}: ">=2021.95.583"
+ Remote: "https://raw.githubusercontent.com/phpMussel/themes/master/FE/themes.dat"
  Uninstallable: true
  Files:
   From:
-   - https://raw.githubusercontent.com/phpMussel/themes/master/FE/fullmoon/_accounts.html
-   - https://raw.githubusercontent.com/phpMussel/themes/master/FE/fullmoon/_cache.html
-   - https://raw.githubusercontent.com/phpMussel/themes/master/FE/fullmoon/_config.html
-   - https://raw.githubusercontent.com/phpMussel/themes/master/FE/fullmoon/_files.html
-   - https://raw.githubusercontent.com/phpMussel/themes/master/FE/fullmoon/_files_edit.html
-   - https://raw.githubusercontent.com/phpMussel/themes/master/FE/fullmoon/_files_rename.html
-   - https://raw.githubusercontent.com/phpMussel/themes/master/FE/fullmoon/_home.html
-   - https://raw.githubusercontent.com/phpMussel/themes/master/FE/fullmoon/_logs.html
-   - https://raw.githubusercontent.com/phpMussel/themes/master/FE/fullmoon/_nav_complete_access.html
-   - https://raw.githubusercontent.com/phpMussel/themes/master/FE/fullmoon/_nav_logs_access_only.html
-   - https://raw.githubusercontent.com/phpMussel/themes/master/FE/fullmoon/_quarantine.html
-   - https://raw.githubusercontent.com/phpMussel/themes/master/FE/fullmoon/_quarantine_row.html
-   - https://raw.githubusercontent.com/phpMussel/themes/master/FE/fullmoon/_siginfo.html
-   - https://raw.githubusercontent.com/phpMussel/themes/master/FE/fullmoon/_statistics.html
-   - https://raw.githubusercontent.com/phpMussel/themes/master/FE/fullmoon/_updates.html
-   - https://raw.githubusercontent.com/phpMussel/themes/master/FE/fullmoon/_upload_test.html
-   - https://raw.githubusercontent.com/phpMussel/themes/master/FE/fullmoon/frontend.css
-   - https://raw.githubusercontent.com/phpMussel/themes/master/FE/fullmoon/frontend.html
-   - https://raw.githubusercontent.com/phpMussel/themes/master/FE/fullmoon/moon.jpg
-   - https://raw.githubusercontent.com/phpMussel/themes/master/FE/fullmoon/pips.php
+   - "https://raw.githubusercontent.com/phpMussel/themes/master/FE/fullmoon/_accounts.html"
+   - "https://raw.githubusercontent.com/phpMussel/themes/master/FE/fullmoon/_cache.html"
+   - "https://raw.githubusercontent.com/phpMussel/themes/master/FE/fullmoon/_config.html"
+   - "https://raw.githubusercontent.com/phpMussel/themes/master/FE/fullmoon/_files.html"
+   - "https://raw.githubusercontent.com/phpMussel/themes/master/FE/fullmoon/_files_edit.html"
+   - "https://raw.githubusercontent.com/phpMussel/themes/master/FE/fullmoon/_files_rename.html"
+   - "https://raw.githubusercontent.com/phpMussel/themes/master/FE/fullmoon/_home.html"
+   - "https://raw.githubusercontent.com/phpMussel/themes/master/FE/fullmoon/_logs.html"
+   - "https://raw.githubusercontent.com/phpMussel/themes/master/FE/fullmoon/_nav_complete_access.html"
+   - "https://raw.githubusercontent.com/phpMussel/themes/master/FE/fullmoon/_nav_logs_access_only.html"
+   - "https://raw.githubusercontent.com/phpMussel/themes/master/FE/fullmoon/_quarantine.html"
+   - "https://raw.githubusercontent.com/phpMussel/themes/master/FE/fullmoon/_quarantine_row.html"
+   - "https://raw.githubusercontent.com/phpMussel/themes/master/FE/fullmoon/_siginfo.html"
+   - "https://raw.githubusercontent.com/phpMussel/themes/master/FE/fullmoon/_statistics.html"
+   - "https://raw.githubusercontent.com/phpMussel/themes/master/FE/fullmoon/_updates.html"
+   - "https://raw.githubusercontent.com/phpMussel/themes/master/FE/fullmoon/_upload_test.html"
+   - "https://raw.githubusercontent.com/phpMussel/themes/master/FE/fullmoon/frontend.css"
+   - "https://raw.githubusercontent.com/phpMussel/themes/master/FE/fullmoon/frontend.html"
+   - "https://raw.githubusercontent.com/phpMussel/themes/master/FE/fullmoon/moon.jpg"
+   - "https://raw.githubusercontent.com/phpMussel/themes/master/FE/fullmoon/pips.php"
   To:
-   - fe_assets/fullmoon/_accounts.html
-   - fe_assets/fullmoon/_cache.html
-   - fe_assets/fullmoon/_config.html
-   - fe_assets/fullmoon/_files.html
-   - fe_assets/fullmoon/_files_edit.html
-   - fe_assets/fullmoon/_files_rename.html
-   - fe_assets/fullmoon/_home.html
-   - fe_assets/fullmoon/_logs.html
-   - fe_assets/fullmoon/_nav_complete_access.html
-   - fe_assets/fullmoon/_nav_logs_access_only.html
-   - fe_assets/fullmoon/_quarantine.html
-   - fe_assets/fullmoon/_quarantine_row.html
-   - fe_assets/fullmoon/_siginfo.html
-   - fe_assets/fullmoon/_statistics.html
-   - fe_assets/fullmoon/_updates.html
-   - fe_assets/fullmoon/_upload_test.html
-   - fe_assets/fullmoon/frontend.css
-   - fe_assets/fullmoon/frontend.html
-   - fe_assets/fullmoon/moon.jpg
-   - fe_assets/fullmoon/pips.php
+   - "fe_assets/fullmoon/_accounts.html"
+   - "fe_assets/fullmoon/_cache.html"
+   - "fe_assets/fullmoon/_config.html"
+   - "fe_assets/fullmoon/_files.html"
+   - "fe_assets/fullmoon/_files_edit.html"
+   - "fe_assets/fullmoon/_files_rename.html"
+   - "fe_assets/fullmoon/_home.html"
+   - "fe_assets/fullmoon/_logs.html"
+   - "fe_assets/fullmoon/_nav_complete_access.html"
+   - "fe_assets/fullmoon/_nav_logs_access_only.html"
+   - "fe_assets/fullmoon/_quarantine.html"
+   - "fe_assets/fullmoon/_quarantine_row.html"
+   - "fe_assets/fullmoon/_siginfo.html"
+   - "fe_assets/fullmoon/_statistics.html"
+   - "fe_assets/fullmoon/_updates.html"
+   - "fe_assets/fullmoon/_upload_test.html"
+   - "fe_assets/fullmoon/frontend.css"
+   - "fe_assets/fullmoon/frontend.html"
+   - "fe_assets/fullmoon/moon.jpg"
+   - "fe_assets/fullmoon/pips.php"
   Checksum:
-   - 2b1ff6a245204d762de6c3801bac912d7bd97c5a1ad9073a17aa6392f4c63793:1859
-   - b157e35ad544f3bad773e867060116cb7bc5b5a3196cfc354b74b17d64a287b8:48
-   - 59fa1c7adde15d9174918181c7107287415a907192991ffc0fbd2a1763447ede:765
-   - 7cd84f11c3844c1768ca11b5add6ef0573c9fb2351f0e809fc58593db7f2afde:956
-   - 8df089b6dfc8707af8033b4080efedd1635c56fe9ca7bbb3a8685f217675b842:624
-   - 489b8c94b4ddaa9086998be6569bc9e74aa9c2d2b8147c38af3ed27405378bea:514
-   - 4ba5d5d02ddcfa7ea25ad09723db86b0703b59ab5bdbf9a1bb734fbf5254d69a:1482
-   - 7a4d0e8c9ca7790d76b0064937730843935cd92c9fd10bb1d132b95b83c8f2c2:132
-   - 0237bd5f0b102aaa28513813891c4f6101b09ee13e05751560a135af4dbb455a:960
-   - 761e62f07fa138c0d2c224a4fff4a43d3d5e7b7b38152799c37a40f0409ab099:327
-   - 6e25cac917eb3e6d9c9bb0329c6a999c43b578b1dcabbe19f84cc327dd618cd4:574
-   - 5a1834825e83155d50ab1082e1296720a80077c237c873ffd688849ebc88ecbe:957
-   - d1f0e6309778e1bf27d93845c489f88f0158c9fb721cf3968fc855d6ae2df861:548
-   - 4eca713d4d2a8ee43dbf30847220caa412820a5bae59ecc51cb2d3a33028feba:3077
-   - 8dff7258fa322bf8ab802cbe9dd7ae3fde0e4d5ec751854f1146aac6ea10099e:730
-   - 894c971b8ee672dba6d4f2f94682122d705db185e2b10f5d8ca6368b604a0303:502
-   - a6b114dd5227810eb7d0ffbec99207d2c0b27cf07756cb60b6413533b74cd670:7601
-   - 63d88bee3b1d5cde55c73d1d645729f1ab37c84a8e52f38854ceab54f516d92f:820
-   - 17703149e6f8a4312527243bfaf369c2dfa73e56c50d4d2fdb2b9f8fa0b332c3:34088
-   - 482e07bb038406b3b98c9cda1f447b3bdf7a9ac32dec98d93887069b37e6536f:1321
- Reannotate: themes.dat
+   - "2b1ff6a245204d762de6c3801bac912d7bd97c5a1ad9073a17aa6392f4c63793:1859"
+   - "b157e35ad544f3bad773e867060116cb7bc5b5a3196cfc354b74b17d64a287b8:48"
+   - "59fa1c7adde15d9174918181c7107287415a907192991ffc0fbd2a1763447ede:765"
+   - "7cd84f11c3844c1768ca11b5add6ef0573c9fb2351f0e809fc58593db7f2afde:956"
+   - "8df089b6dfc8707af8033b4080efedd1635c56fe9ca7bbb3a8685f217675b842:624"
+   - "489b8c94b4ddaa9086998be6569bc9e74aa9c2d2b8147c38af3ed27405378bea:514"
+   - "4ba5d5d02ddcfa7ea25ad09723db86b0703b59ab5bdbf9a1bb734fbf5254d69a:1482"
+   - "7a4d0e8c9ca7790d76b0064937730843935cd92c9fd10bb1d132b95b83c8f2c2:132"
+   - "0237bd5f0b102aaa28513813891c4f6101b09ee13e05751560a135af4dbb455a:960"
+   - "761e62f07fa138c0d2c224a4fff4a43d3d5e7b7b38152799c37a40f0409ab099:327"
+   - "6e25cac917eb3e6d9c9bb0329c6a999c43b578b1dcabbe19f84cc327dd618cd4:574"
+   - "5a1834825e83155d50ab1082e1296720a80077c237c873ffd688849ebc88ecbe:957"
+   - "d1f0e6309778e1bf27d93845c489f88f0158c9fb721cf3968fc855d6ae2df861:548"
+   - "4eca713d4d2a8ee43dbf30847220caa412820a5bae59ecc51cb2d3a33028feba:3077"
+   - "8dff7258fa322bf8ab802cbe9dd7ae3fde0e4d5ec751854f1146aac6ea10099e:730"
+   - "894c971b8ee672dba6d4f2f94682122d705db185e2b10f5d8ca6368b604a0303:502"
+   - "74ca7571ffcfda8ea138e4c9a33561b0a45b6bd58409fcf368467448260099c9:7865"
+   - "63d88bee3b1d5cde55c73d1d645729f1ab37c84a8e52f38854ceab54f516d92f:820"
+   - "17703149e6f8a4312527243bfaf369c2dfa73e56c50d4d2fdb2b9f8fa0b332c3:34088"
+   - "482e07bb038406b3b98c9cda1f447b3bdf7a9ac32dec98d93887069b37e6536f:1321"
+ Reannotate: "themes.dat"
+theme/moss:
+ Name: "Theme: Moss"
+ Extended Description: "<img src="https://raw.githubusercontent.com/phpMussel/themes/master/FE/preview-moss.png" alt="Preview" /><br />Inspired by the colours of nature.<br /><em>Author: Caleb M (Maikuolan)</em>"
+ Version: "2022.59.0"
+ Dependencies:
+  phpMussel Core: "^1.14|^2.3"
+  phpMussel Front-End: "^1.14|^2.3"
+  l10n/{lang}: ">=2021.95.583"
+ Remote: "https://raw.githubusercontent.com/phpMussel/themes/master/FE/themes.dat"
+ Uninstallable: true
+ Files:
+  From:
+   - "https://raw.githubusercontent.com/phpMussel/themes/master/FE/template_moss.html"
+   - "https://raw.githubusercontent.com/phpMussel/themes/master/FE/moss/bg.png"
+   - "https://raw.githubusercontent.com/phpMussel/themes/master/FE/moss/frontend.css"
+   - "https://raw.githubusercontent.com/phpMussel/themes/master/FE/moss/frontend.html"
+  To:
+   - "template_moss.html"
+   - "fe_assets/moss/bg.png"
+   - "fe_assets/moss/frontend.css"
+   - "fe_assets/moss/frontend.html"
+  Checksum:
+   - "492febd8c958a2af6e5eb036b94693b5c5befd1aa588686b87193bb92a55ce50:1902"
+   - "ceb4497bbae40d04a2a8ecb42086307bc57677235685ea07bedf98795dea780f:17804"
+   - "fbac7193d0200f273de393b4e8221c77f934957d9fa92605a150caf2eff0c86d:8891"
+   - "77a13a76c317ea997d1aec9fadfb0044b7147ac05c87607b839c88dde99b937c:1024"
+ Reannotate: "themes.dat"
 theme/primer:
- Name: Theme: Primer
- Extended Description: <img src="https://raw.githubusercontent.com/phpMussel/themes/master/FE/preview-primer.png" alt="Preview" /><br />Inspired by the "Primer Design System" (utilised by GitHub, Facebook, etc).
- Version: "2022.56.0"
+ Name: "Theme: Primer"
+ Extended Description: "<img src="https://raw.githubusercontent.com/phpMussel/themes/master/FE/preview-primer.png" alt="Preview" /><br />Inspired by the "Primer Design System" (utilised by GitHub, Facebook, etc)."
+ Version: "2022.59.0"
  Dependencies:
-  phpMussel Core: ^1.14|^2.3
-  phpMussel Front-End: ^1.14|^2.3
-  l10n/{lang}: >=2021.95.583
- Remote: https://raw.githubusercontent.com/phpMussel/themes/master/FE/themes.dat
+  phpMussel Core: "^1.14|^2.3"
+  phpMussel Front-End: "^1.14|^2.3"
+  l10n/{lang}: ">=2021.95.583"
+ Remote: "https://raw.githubusercontent.com/phpMussel/themes/master/FE/themes.dat"
  Uninstallable: true
  Files:
   From:
-   - https://raw.githubusercontent.com/phpMussel/themes/master/FE/template_primer.html
-   - https://raw.githubusercontent.com/phpMussel/themes/master/FE/primer/_nav_complete_access.html
-   - https://raw.githubusercontent.com/phpMussel/themes/master/FE/primer/_nav_logs_access_only.html
-   - https://raw.githubusercontent.com/phpMussel/themes/master/FE/primer/frontend.css
-   - https://raw.githubusercontent.com/phpMussel/themes/master/FE/primer/frontend.html
+   - "https://raw.githubusercontent.com/phpMussel/themes/master/FE/template_primer.html"
+   - "https://raw.githubusercontent.com/phpMussel/themes/master/FE/primer/_nav_complete_access.html"
+   - "https://raw.githubusercontent.com/phpMussel/themes/master/FE/primer/_nav_logs_access_only.html"
+   - "https://raw.githubusercontent.com/phpMussel/themes/master/FE/primer/frontend.css"
+   - "https://raw.githubusercontent.com/phpMussel/themes/master/FE/primer/frontend.html"
   To:
-   - template_primer.html
-   - fe_assets/primer/_nav_complete_access.html
-   - fe_assets/primer/_nav_logs_access_only.html
-   - fe_assets/primer/frontend.css
-   - fe_assets/primer/frontend.html
+   - "template_primer.html"
+   - "fe_assets/primer/_nav_complete_access.html"
+   - "fe_assets/primer/_nav_logs_access_only.html"
+   - "fe_assets/primer/frontend.css"
+   - "fe_assets/primer/frontend.html"
   Checksum:
-   - ae97ee95e66dea5f787e4e3e0e9acae7b3b5437320cd8e62ad85ebb22cade23a:2086
-   - c829900d4096a4f58a95ac58dfdbd887b3ad2b66c0211539181243c8e322e138:1337
-   - fb295f4c9a73b3e5f639a21edc8c5ae09aa27f2770245cb7fd55e316cc6cefe9:578
-   - 7553e38e53a19b0cb5c9d27b3006b6691c8be4022cfa716d77eac7b458830057:9446
-   - 64eed6aad783d172f8530162de5059171d7dc880dcdf7c80cf7cc95f9bae3549:843
- Reannotate: themes.dat
+   - "ae97ee95e66dea5f787e4e3e0e9acae7b3b5437320cd8e62ad85ebb22cade23a:2086"
+   - "c829900d4096a4f58a95ac58dfdbd887b3ad2b66c0211539181243c8e322e138:1337"
+   - "fb295f4c9a73b3e5f639a21edc8c5ae09aa27f2770245cb7fd55e316cc6cefe9:578"
+   - "af1e2f27101f3c4c275c2e5d884a9e6bce9bb8998b61e1069e05a45ff089b8ba:9710"
+   - "64eed6aad783d172f8530162de5059171d7dc880dcdf7c80cf7cc95f9bae3549:843"
+ Reannotate: "themes.dat"
 theme/primerdark:
- Name: Theme: Primer Dark
- Extended Description: <img src="https://raw.githubusercontent.com/phpMussel/themes/master/FE/preview-primerdark.png" alt="Preview" /><br />A darker version of the Primer theme.
- Version: "2022.56.0"
+ Name: "Theme: Primer Dark"
+ Extended Description: "<img src="https://raw.githubusercontent.com/phpMussel/themes/master/FE/preview-primerdark.png" alt="Preview" /><br />A darker version of the Primer theme."
+ Version: "2022.59.0"
  Dependencies:
-  phpMussel Core: ^1.14|^2.3
-  phpMussel Front-End: ^1.14|^2.3
-  l10n/{lang}: >=2021.95.583
- Remote: https://raw.githubusercontent.com/phpMussel/themes/master/FE/themes.dat
+  phpMussel Core: "^1.14|^2.3"
+  phpMussel Front-End: "^1.14|^2.3"
+  l10n/{lang}: ">=2021.95.583"
+ Remote: "https://raw.githubusercontent.com/phpMussel/themes/master/FE/themes.dat"
  Uninstallable: true
  Files:
   From:
-   - https://raw.githubusercontent.com/phpMussel/themes/master/FE/template_primerdark.html
-   - https://raw.githubusercontent.com/phpMussel/themes/master/FE/primerdark/_nav_complete_access.html
-   - https://raw.githubusercontent.com/phpMussel/themes/master/FE/primerdark/_nav_logs_access_only.html
-   - https://raw.githubusercontent.com/phpMussel/themes/master/FE/primerdark/frontend.css
-   - https://raw.githubusercontent.com/phpMussel/themes/master/FE/primerdark/frontend.html
+   - "https://raw.githubusercontent.com/phpMussel/themes/master/FE/template_primerdark.html"
+   - "https://raw.githubusercontent.com/phpMussel/themes/master/FE/primerdark/_nav_complete_access.html"
+   - "https://raw.githubusercontent.com/phpMussel/themes/master/FE/primerdark/_nav_logs_access_only.html"
+   - "https://raw.githubusercontent.com/phpMussel/themes/master/FE/primerdark/frontend.css"
+   - "https://raw.githubusercontent.com/phpMussel/themes/master/FE/primerdark/frontend.html"
   To:
-   - template_primerdark.html
-   - fe_assets/primerdark/_nav_complete_access.html
-   - fe_assets/primerdark/_nav_logs_access_only.html
-   - fe_assets/primerdark/frontend.css
-   - fe_assets/primerdark/frontend.html
+   - "template_primerdark.html"
+   - "fe_assets/primerdark/_nav_complete_access.html"
+   - "fe_assets/primerdark/_nav_logs_access_only.html"
+   - "fe_assets/primerdark/frontend.css"
+   - "fe_assets/primerdark/frontend.html"
   Checksum:
-   - a40d5ea5d7f8a50bac5cb28c9dc6cb1bb3e420c558e26393eb018f4d39bf8753:2076
-   - c829900d4096a4f58a95ac58dfdbd887b3ad2b66c0211539181243c8e322e138:1337
-   - fb295f4c9a73b3e5f639a21edc8c5ae09aa27f2770245cb7fd55e316cc6cefe9:578
-   - cd741fbb9bc063c3e7497820ccbcdaa9e5f0dd6145aabc6180d1b04b0049f0ec:9446
-   - 64eed6aad783d172f8530162de5059171d7dc880dcdf7c80cf7cc95f9bae3549:843
- Reannotate: themes.dat
-
+   - "a40d5ea5d7f8a50bac5cb28c9dc6cb1bb3e420c558e26393eb018f4d39bf8753:2076"
+   - "c829900d4096a4f58a95ac58dfdbd887b3ad2b66c0211539181243c8e322e138:1337"
+   - "fb295f4c9a73b3e5f639a21edc8c5ae09aa27f2770245cb7fd55e316cc6cefe9:578"
+   - "72dd1cdc8500f53e5b0408d94478bf2ea082e40dd676ee63c270898c7447a906:9710"
+   - "64eed6aad783d172f8530162de5059171d7dc880dcdf7c80cf7cc95f9bae3549:843"
+ Reannotate: "themes.dat"
+theme/rbi:
+ Name: "Theme: Red-Blue Inverted"
+ Extended Description: "<img src="https://raw.githubusercontent.com/phpMussel/themes/master/FE/preview-rbi.png" alt="Preview" /><br />Exactly the same as the default theme, but with some of the colours swapped around. No big changes.<br /><em>Author: Caleb M (Maikuolan)</em>"
+ Version: "2022.59.0"
+ Dependencies:
+  phpMussel Core: "^1.14|^2.3"
+  phpMussel Front-End: "^1.14|^2.3"
+  l10n/{lang}: ">=2021.95.583"
+ Remote: "https://raw.githubusercontent.com/phpMussel/themes/master/FE/themes.dat"
+ Uninstallable: true
+ Files:
+  From:
+   - "https://raw.githubusercontent.com/phpMussel/themes/master/FE/template_rbi.html"
+   - "https://raw.githubusercontent.com/phpMussel/themes/master/FE/rbi/frontend.css"
+  To:
+   - "template_rbi.html"
+   - "fe_assets/rbi/frontend.css"
+  Checksum:
+   - "29df9eb66c6beddce169860a891c182d3648c99337714c10db38a8cbb8c37f45:2040"
+   - "311ed2f18a1b1f69d2406e2dba249663557bdd00b80b74dfbcad50eeebb54c03:10668"
+ Reannotate: "themes.dat"
+theme/slate:
+ Name: "Theme: Slate"
+ Extended Description: "<img src="https://raw.githubusercontent.com/phpMussel/themes/master/FE/preview-slate.png" alt="Preview" /><br />Simple layout; Gentle, darker colours.<br /><em>Author: Caleb M (Maikuolan)</em>"
+ Version: "2022.59.0"
+ Dependencies:
+  phpMussel Core: "^1.14|^2.3"
+  phpMussel Front-End: "^1.14|^2.3"
+  l10n/{lang}: ">=2021.95.583"
+ Remote: "https://raw.githubusercontent.com/phpMussel/themes/master/FE/themes.dat"
+ Uninstallable: true
+ Files:
+  From:
+   - "https://raw.githubusercontent.com/phpMussel/themes/master/FE/template_slate.html"
+   - "https://raw.githubusercontent.com/phpMussel/themes/master/FE/slate/frontend.css"
+   - "https://raw.githubusercontent.com/phpMussel/themes/master/FE/slate/frontend.html"
+   - "https://raw.githubusercontent.com/phpMussel/themes/master/FE/slate/pips.php"
+  To:
+   - "template_slate.html"
+   - "fe_assets/slate/frontend.css"
+   - "fe_assets/slate/frontend.html"
+   - "fe_assets/slate/pips.php"
+  Checksum:
+   - "f4283c3c2b8b3aa18f5689725dbf00b5cac110bcea796947557c7f9701457610:1867"
+   - "c431c3009605423d3b333100a8dbd89d57c8984c969afd162dd9955d7938f7bc:8581"
+   - "77a13a76c317ea997d1aec9fadfb0044b7147ac05c87607b839c88dde99b937c:1024"
+   - "fcaa0ccd6f4f9777470537f80c615bde4c9232133797b8afaa8018a0b5251562:1317"
+ Reannotate: "themes.dat"
