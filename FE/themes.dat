@@ -131,7 +131,7 @@ theme/moss:
 theme/primer:
  Name: "Theme: Primer"
  Extended Description: "<img src="https://raw.githubusercontent.com/phpMussel/themes/master/FE/preview-primer.png" alt="Preview" /><br />Inspired by the "Primer Design System" (utilised by GitHub, Facebook, etc)."
- Version: "2022.81.0"
+ Version: "2022.85.0"
  Dependencies:
   phpMussel Core: "^1.14|^2.3"
   phpMussel Front-End: "^1.14|^2.3"
@@ -152,7 +152,7 @@ theme/primer:
    - "fe_assets/primer/frontend.css"
    - "fe_assets/primer/frontend.html"
   Checksum:
-   - "04163aa9879498064bdb7867b41b390c46704e37ee28a226362f6efd1ba7fa6a:2051"
+   - "af8c11d9157422f9f27969dfb28be995dc021360a05f293cb6e52a74efa224b3:2053"
    - "c829900d4096a4f58a95ac58dfdbd887b3ad2b66c0211539181243c8e322e138:1337"
    - "fb295f4c9a73b3e5f639a21edc8c5ae09aa27f2770245cb7fd55e316cc6cefe9:578"
    - "01bf50fa4f2a84498ebdf2ca094b446f55d547f18a7dd680d54ade8451128a2d:10476"
@@ -161,7 +161,7 @@ theme/primer:
 theme/primerdark:
  Name: "Theme: Primer Dark"
  Extended Description: "<img src="https://raw.githubusercontent.com/phpMussel/themes/master/FE/preview-primerdark.png" alt="Preview" /><br />A darker version of the Primer theme."
- Version: "2022.81.0"
+ Version: "2022.85.0"
  Dependencies:
   phpMussel Core: "^1.14|^2.3"
   phpMussel Front-End: "^1.14|^2.3"
@@ -182,7 +182,7 @@ theme/primerdark:
    - "fe_assets/primerdark/frontend.css"
    - "fe_assets/primerdark/frontend.html"
   Checksum:
-   - "04c56f2a859666935a46f67a500ac21494fbbf918cb05bbc59a2acf20edd9a65:2041"
+   - "7e1b11bd31e0775b0f217604ff676c0bfe537a20cee5638b05f057fbe60196f4:2043"
    - "c829900d4096a4f58a95ac58dfdbd887b3ad2b66c0211539181243c8e322e138:1337"
    - "fb295f4c9a73b3e5f639a21edc8c5ae09aa27f2770245cb7fd55e316cc6cefe9:578"
    - "0a4877df89382a1250f54cbc84add317381bc22bfcf3f36d59bb863332e87002:10413"
