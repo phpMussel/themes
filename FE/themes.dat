@@ -2,7 +2,7 @@
 theme/bluemetal:
  Name: "Theme: Blue Metal"
  Extended Description: "<img src="https://raw.githubusercontent.com/phpMussel/themes/master/FE/preview-bluemetal.png" alt="Preview" /><br />Simple blue/black colour scheme with gentle tones.<br /><em>Author: Caleb M (Maikuolan), based on previous work by Daniel R.</em>"
- Version: "2022.167.0"
+ Version: "2022.201.0"
  Dependencies:
   phpMussel Core: "^1.14|^2.3"
   phpMussel Front-End: "^1.14|^2.3"
@@ -22,14 +22,14 @@ theme/bluemetal:
    - "fe_assets/bluemetal/pips.php"
   Checksum:
    - "d16d38b3fa388fc4303c344b200853d89d58e8e130853f09cde3d48f13ffae38:1960"
-   - "3675707ad5083f6d3999ed40276a91a944cb12fa6f4a58ee17fb44039091fe53:9371"
+   - "d756a3c0eb37eb6e912624301ab6cf21155b08c6a65df6b40d9bc917ecdf8391:9471"
    - "1487e4cf400a38240d7ac48987e7c1503df3fdcbf3d0cb8c319ce1d08c788022:1014"
    - "fde565fb5afd936fdf2249df55093e74443f46185bd68118a4b57ccb93c884a8:1322"
  Reannotate: "themes.dat"
 theme/fullmoon:
  Name: "Theme: Full Moon"
  Extended Description: "<img src="https://raw.githubusercontent.com/phpMussel/themes/master/FE/preview-fullmoon.png" alt="Preview" /><br />Darker, semi-transparent colours; Navigation shifted to the top; No special fonts; Full moon backdrop.<br /><em>Author: Caleb M (Maikuolan)</em>"
- Version: "2022.167.0"
+ Version: "2022.201.0"
  Dependencies:
   phpMussel Core: "^1.14|^2.3"
   phpMussel Front-End: "^1.14|^2.3"
@@ -91,12 +91,12 @@ theme/fullmoon:
    - "0237bd5f0b102aaa28513813891c4f6101b09ee13e05751560a135af4dbb455a:960"
    - "761e62f07fa138c0d2c224a4fff4a43d3d5e7b7b38152799c37a40f0409ab099:327"
    - "6e25cac917eb3e6d9c9bb0329c6a999c43b578b1dcabbe19f84cc327dd618cd4:574"
-   - "5a1834825e83155d50ab1082e1296720a80077c237c873ffd688849ebc88ecbe:957"
+   - "270152186eddf7ada3108d81bf27ca06b6105330dcccf32052dac5006a992859:957"
    - "d1f0e6309778e1bf27d93845c489f88f0158c9fb721cf3968fc855d6ae2df861:548"
    - "4eca713d4d2a8ee43dbf30847220caa412820a5bae59ecc51cb2d3a33028feba:3077"
    - "8dff7258fa322bf8ab802cbe9dd7ae3fde0e4d5ec751854f1146aac6ea10099e:730"
    - "894c971b8ee672dba6d4f2f94682122d705db185e2b10f5d8ca6368b604a0303:502"
-   - "0bfbebb079f405def0c1572983774077ed05b28690525044905d2ef830efa632:8492"
+   - "f342fb1ad07defe2cc92bb0318c8a51ed916c32ef4f98fb44829c3976059edf4:8592"
    - "032509d3728f8909171bf2f3a5bbbb3b71c237b6461ae14a803d96a79d16474a:810"
    - "17703149e6f8a4312527243bfaf369c2dfa73e56c50d4d2fdb2b9f8fa0b332c3:34088"
    - "482e07bb038406b3b98c9cda1f447b3bdf7a9ac32dec98d93887069b37e6536f:1321"
@@ -104,7 +104,7 @@ theme/fullmoon:
 theme/moss:
  Name: "Theme: Moss"
  Extended Description: "<img src="https://raw.githubusercontent.com/phpMussel/themes/master/FE/preview-moss.png" alt="Preview" /><br />Inspired by the colours of nature.<br /><em>Author: Caleb M (Maikuolan)</em>"
- Version: "2022.167.0"
+ Version: "2022.201.0"
  Dependencies:
   phpMussel Core: "^1.14|^2.3"
   phpMussel Front-End: "^1.14|^2.3"
@@ -125,7 +125,7 @@ theme/moss:
   Checksum:
    - "8b82ddc082fe7b1929f094d23ec7833fb009120ae13c9ea857f22209de6d797c:1870"
    - "ceb4497bbae40d04a2a8ecb42086307bc57677235685ea07bedf98795dea780f:17804"
-   - "f442bf2b4020490daa3ab3ea9ef2b5528a42dfaeda77f8b5ef7b01c22ea53633:9548"
+   - "28895f4e20f8c40d557f793320a0ce8d82aceda7bcd0d11359a3e0f4008c2864:9648"
    - "1487e4cf400a38240d7ac48987e7c1503df3fdcbf3d0cb8c319ce1d08c788022:1014"
  Reannotate: "themes.dat"
 theme/primer:
@@ -191,7 +191,7 @@ theme/primerdark:
 theme/rbi:
  Name: "Theme: Red-Blue Inverted"
  Extended Description: "<img src="https://raw.githubusercontent.com/phpMussel/themes/master/FE/preview-rbi.png" alt="Preview" /><br />Exactly the same as the default theme, but with some of the colours swapped around. No big changes.<br /><em>Author: Caleb M (Maikuolan)</em>"
- Version: "2022.167.0"
+ Version: "2022.201.0"
  Dependencies:
   phpMussel Core: "^1.14|^2.3"
   phpMussel Front-End: "^1.14|^2.3"
@@ -207,12 +207,12 @@ theme/rbi:
    - "fe_assets/rbi/frontend.css"
   Checksum:
    - "f196d8602f6469f9a627a869cb90752e0cf403d4191d44662c7c1cabb9e0eaeb:2011"
-   - "8e3fe3a2059b71703eaa8b6710861c857a891cdae0a981a33c9093baabc374b7:11253"
+   - "e627023f11b33eb7da44d3e6ef07abcee9a7ed5ce01b5a54f1ffd5213fa7e725:11353"
  Reannotate: "themes.dat"
 theme/slate:
  Name: "Theme: Slate"
  Extended Description: "<img src="https://raw.githubusercontent.com/phpMussel/themes/master/FE/preview-slate.png" alt="Preview" /><br />Simple layout; Gentle, darker colours.<br /><em>Author: Caleb M (Maikuolan)</em>"
- Version: "2022.167.0"
+ Version: "2022.201.0"
  Dependencies:
   phpMussel Core: "^1.14|^2.3"
   phpMussel Front-End: "^1.14|^2.3"
@@ -232,7 +232,7 @@ theme/slate:
    - "fe_assets/slate/pips.php"
   Checksum:
    - "3309f052c385d4b55952d2ebf6ce2b0eb6c326888fce6fe4f34b465a81356c45:1857"
-   - "e29b073667c45b71fffdf18e8d3cd80751165580bf9be5b41f8adf5b54c823a7:9265"
+   - "b6dcd346a206c1158f7d5df4cb7e58837cb4759051ba5093c0fb58c7575145da:9365"
    - "1487e4cf400a38240d7ac48987e7c1503df3fdcbf3d0cb8c319ce1d08c788022:1014"
    - "fcaa0ccd6f4f9777470537f80c615bde4c9232133797b8afaa8018a0b5251562:1317"
  Reannotate: "themes.dat"
