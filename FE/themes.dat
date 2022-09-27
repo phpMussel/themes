@@ -29,7 +29,7 @@ theme/bluemetal:
 theme/fullmoon:
  Name: "Theme: Full Moon"
  Extended Description: "<img src="https://raw.githubusercontent.com/phpMussel/themes/master/FE/preview-fullmoon.png" alt="Preview" /><br />Darker, semi-transparent colours; Navigation shifted to the top; No special fonts; Full moon backdrop.<br /><em>Author: Caleb M (Maikuolan)</em>"
- Version: "2022.265.0"
+ Version: "2022.269.0"
  Dependencies:
   phpMussel Core: "^1.14|^2.3"
   phpMussel Front-End: "^1.14|^2.3"
@@ -84,7 +84,7 @@ theme/fullmoon:
    - "b157e35ad544f3bad773e867060116cb7bc5b5a3196cfc354b74b17d64a287b8:48"
    - "d33be998ad4d003c54c2c59563b3b82f4b9f0719b90dc20de2918b45016924ba:781"
    - "7cd84f11c3844c1768ca11b5add6ef0573c9fb2351f0e809fc58593db7f2afde:956"
-   - "8df089b6dfc8707af8033b4080efedd1635c56fe9ca7bbb3a8685f217675b842:624"
+   - "b2be9098c8e3b7b304ea450dbf64b265992b158547c8f840b789709f9c781d76:791"
    - "1869a4f06e56ca38d33c54168c8d15c48583efe4f4e4b053143552e81a113147:563"
    - "4ba5d5d02ddcfa7ea25ad09723db86b0703b59ab5bdbf9a1bb734fbf5254d69a:1482"
    - "7a4d0e8c9ca7790d76b0064937730843935cd92c9fd10bb1d132b95b83c8f2c2:132"
