@@ -2,7 +2,7 @@
 theme/bluemetal:
  Name: "Theme: Blue Metal"
  Extended Description: "<img src="https://raw.githubusercontent.com/phpMussel/themes/master/FE/preview-bluemetal.png" alt="Preview" /><br />Simple blue/black colour scheme with gentle tones.<br /><em>Author: Caleb M (Maikuolan), based on previous work by Daniel R.</em>"
- Version: "2022.265.0"
+ Version: "2023.40.0"
  Dependencies:
   phpMussel Core: "^1.14|^2.3"
   phpMussel Front-End: "^1.14|^2.3"
@@ -22,14 +22,14 @@ theme/bluemetal:
    - "fe_assets/bluemetal/pips.php"
   Checksum:
    - "d16d38b3fa388fc4303c344b200853d89d58e8e130853f09cde3d48f13ffae38:1960"
-   - "0dd96f02baee8697211d42f9debb066c4ecc191a161eef5ea7c2f93578bdf2fe:9737"
+   - "7b8d3b8ba05afc8325b00f9a4e34620c371f954b176e79de3a434da20af9fe64:9907"
    - "1487e4cf400a38240d7ac48987e7c1503df3fdcbf3d0cb8c319ce1d08c788022:1014"
-   - "fde565fb5afd936fdf2249df55093e74443f46185bd68118a4b57ccb93c884a8:1322"
+   - "e87a16c770ca4e9f067ad76d320b6665c3a8923464294eeb25656afb9c840e14:1425"
  Reannotate: "themes.dat"
 theme/fullmoon:
  Name: "Theme: Full Moon"
  Extended Description: "<img src="https://raw.githubusercontent.com/phpMussel/themes/master/FE/preview-fullmoon.png" alt="Preview" /><br />Darker, semi-transparent colours; Navigation shifted to the top; No special fonts; Full moon backdrop.<br /><em>Author: Caleb M (Maikuolan)</em>"
- Version: "2022.269.0"
+ Version: "2023.40.0"
  Dependencies:
   phpMussel Core: "^1.14|^2.3"
   phpMussel Front-End: "^1.14|^2.3"
@@ -96,15 +96,15 @@ theme/fullmoon:
    - "f9e4f7ca8afb58c762b8e69af8eb5718afbd41cb7e28837c3fd1b902d05eb7ac:3093"
    - "e456237b4c06c5ce7e32f45126efb255bad0622dc03e802f62bcc6e91a219b42:746"
    - "894c971b8ee672dba6d4f2f94682122d705db185e2b10f5d8ca6368b604a0303:502"
-   - "5597c32d9f13b75eb6723460982ceb45441023e7808341647c8292f63bc5cc91:8864"
+   - "0d2e75292786ba2867af9d709d97ecf34b732ce241f40d1159d68367fd591f1e:8890"
    - "032509d3728f8909171bf2f3a5bbbb3b71c237b6461ae14a803d96a79d16474a:810"
    - "17703149e6f8a4312527243bfaf369c2dfa73e56c50d4d2fdb2b9f8fa0b332c3:34088"
-   - "482e07bb038406b3b98c9cda1f447b3bdf7a9ac32dec98d93887069b37e6536f:1321"
+   - "79b903661457351c0753af07ed83ecff9a6c1a237ab66c61e7403039746b2269:1424"
  Reannotate: "themes.dat"
 theme/moss:
  Name: "Theme: Moss"
  Extended Description: "<img src="https://raw.githubusercontent.com/phpMussel/themes/master/FE/preview-moss.png" alt="Preview" /><br />Inspired by the colours of nature.<br /><em>Author: Caleb M (Maikuolan)</em>"
- Version: "2022.265.0"
+ Version: "2023.40.0"
  Dependencies:
   phpMussel Core: "^1.14|^2.3"
   phpMussel Front-End: "^1.14|^2.3"
@@ -125,13 +125,13 @@ theme/moss:
   Checksum:
    - "8b82ddc082fe7b1929f094d23ec7833fb009120ae13c9ea857f22209de6d797c:1870"
    - "ceb4497bbae40d04a2a8ecb42086307bc57677235685ea07bedf98795dea780f:17804"
-   - "577de79ce613d9dbc268e032c49588737d3a181609228288d3500c15f0d7f5d5:9917"
+   - "c52a20de9c73861bf989de34ad59189d4a736bb9e0e6975b045d58e3d145813c:10096"
    - "1487e4cf400a38240d7ac48987e7c1503df3fdcbf3d0cb8c319ce1d08c788022:1014"
  Reannotate: "themes.dat"
 theme/primer:
  Name: "Theme: Primer"
  Extended Description: "<img src="https://raw.githubusercontent.com/phpMussel/themes/master/FE/preview-primer.png" alt="Preview" /><br />Inspired by the "Primer Design System" (utilised by GitHub, Facebook, etc)."
- Version: "2022.242.0"
+ Version: "2023.40.0"
  Dependencies:
   phpMussel Core: "^1.14|^2.3"
   phpMussel Front-End: "^1.14|^2.3"
@@ -155,13 +155,13 @@ theme/primer:
    - "af8c11d9157422f9f27969dfb28be995dc021360a05f293cb6e52a74efa224b3:2053"
    - "c829900d4096a4f58a95ac58dfdbd887b3ad2b66c0211539181243c8e322e138:1337"
    - "fb295f4c9a73b3e5f639a21edc8c5ae09aa27f2770245cb7fd55e316cc6cefe9:578"
-   - "ab73a74629fce92529a50c87a3d08729e27ce015fd0354bb5b94bc5744c9b4d0:10720"
+   - "260e9bb67d219426007d3a5d0701574b86588f605ccd11cc5f40cb495971eed9:10900"
    - "675c489eb71a4922ea3ef2ecc42e7d44245cf2c7926a4b815ee55bc5a73b53a4:833"
  Reannotate: "themes.dat"
 theme/primerdark:
  Name: "Theme: Primer Dark"
  Extended Description: "<img src="https://raw.githubusercontent.com/phpMussel/themes/master/FE/preview-primerdark.png" alt="Preview" /><br />A darker version of the Primer theme."
- Version: "2022.242.0"
+ Version: "2023.40.0"
  Dependencies:
   phpMussel Core: "^1.14|^2.3"
   phpMussel Front-End: "^1.14|^2.3"
@@ -185,13 +185,13 @@ theme/primerdark:
    - "7e1b11bd31e0775b0f217604ff676c0bfe537a20cee5638b05f057fbe60196f4:2043"
    - "c829900d4096a4f58a95ac58dfdbd887b3ad2b66c0211539181243c8e322e138:1337"
    - "fb295f4c9a73b3e5f639a21edc8c5ae09aa27f2770245cb7fd55e316cc6cefe9:578"
-   - "d1d08bd41a1fe2971145660fc9a7d5271fb25d53c95db63a8157a53a3d9072eb:10654"
+   - "41c4b0e1879b25cd7a2bce3eecc9889bb5c415f82440a23b3cbf63b39df0a82a:10817"
    - "675c489eb71a4922ea3ef2ecc42e7d44245cf2c7926a4b815ee55bc5a73b53a4:833"
  Reannotate: "themes.dat"
 theme/rbi:
  Name: "Theme: Red-Blue Inverted"
  Extended Description: "<img src="https://raw.githubusercontent.com/phpMussel/themes/master/FE/preview-rbi.png" alt="Preview" /><br />Exactly the same as the default theme, but with some of the colours swapped around. No big changes.<br /><em>Author: Caleb M (Maikuolan)</em>"
- Version: "2022.265.0"
+ Version: "2023.40.0"
  Dependencies:
   phpMussel Core: "^1.14|^2.3"
   phpMussel Front-End: "^1.14|^2.3"
@@ -207,12 +207,12 @@ theme/rbi:
    - "fe_assets/rbi/frontend.css"
   Checksum:
    - "f196d8602f6469f9a627a869cb90752e0cf403d4191d44662c7c1cabb9e0eaeb:2011"
-   - "9cc6715bc81db526851ccacbdb29c81eddfc7baac918019665696a1fbbc42ae7:11663"
+   - "94ed90d85e8e0c19179e0d8398171bb48a9c3a4a74c77cb40f098da04e483cd1:11843"
  Reannotate: "themes.dat"
 theme/slate:
  Name: "Theme: Slate"
  Extended Description: "<img src="https://raw.githubusercontent.com/phpMussel/themes/master/FE/preview-slate.png" alt="Preview" /><br />Simple layout; Gentle, darker colours.<br /><em>Author: Caleb M (Maikuolan)</em>"
- Version: "2022.265.0"
+ Version: "2023.40.0"
  Dependencies:
   phpMussel Core: "^1.14|^2.3"
   phpMussel Front-End: "^1.14|^2.3"
@@ -232,7 +232,7 @@ theme/slate:
    - "fe_assets/slate/pips.php"
   Checksum:
    - "3309f052c385d4b55952d2ebf6ce2b0eb6c326888fce6fe4f34b465a81356c45:1857"
-   - "a78e65acbc3a0a0e8ee8492d9465732c2a08386bd7563812541a3ae2e454204a:9704"
+   - "abdda1d8bf9e88456ca427e62015761799b901f18fff72ddd9808e31e6e497de:9884"
    - "1487e4cf400a38240d7ac48987e7c1503df3fdcbf3d0cb8c319ce1d08c788022:1014"
-   - "fcaa0ccd6f4f9777470537f80c615bde4c9232133797b8afaa8018a0b5251562:1317"
+   - "63c076eae2bf878d2b19024aad39d4448995ea9266486fb9549b552fd523ba1d:1420"
  Reannotate: "themes.dat"
